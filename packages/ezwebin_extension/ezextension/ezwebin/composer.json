@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "eZ Publish dev-team & eZ Community",
-            "homepage": "https://github.com/ezsystems/ezwebin-extension"
+            "homepage": "https://github.com/se7enxweb/ezwebin-extension"
         }
     ],
     "minimum-stability": "dev",
