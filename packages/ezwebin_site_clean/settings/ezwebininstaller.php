@@ -2763,9 +2763,9 @@ class eZWebinInstaller extends eZSiteInstaller
                 'MenuContentSettings' => array( 
                     'TopIdentifierList' => array( 
                         'folder', 
-                        'feedback_form' 
+                        'feedback_form', 
                         'article', 
-                        'link', 
+                        'link' 
                     ), 
                     'LeftIdentifierList' => array( 
                         'folder', 
