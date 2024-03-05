@@ -9,19 +9,19 @@
   <vendor>eZ systems</vendor>
   <type value="site" />
   <ezpublish>
-    <version>5.0.0-alpha1</version>
-    <named-version>5.0</named-version>
+    <version>6.0.0-alpha1</version>
+    <named-version>6.0</named-version>
   </ezpublish>
   <maintainers>
     <maintainer>
       <name>Administrator User</name>
-      <email>nospam@ez.no</email>
+      <email>nospam@se7enx.com</email>
       <role>lead</role>
     </maintainer>
   </maintainers>
   <packaging>
     <timestamp>1153313252</timestamp>
-    <host>packages.ez.no</host>
+    <host>packages.se7enx.com</host>
   </packaging>
   <documents>
     <document mime-type="text/plain"
@@ -29,7 +29,7 @@
   </documents>
   <changelog>
     <entry person="Administrator User"
-           email="nospam@ez.no"
+           email="nospam@se7enx.com"
            release="1">
       <change>Creation of package.</change>
     </entry>
@@ -50,7 +50,7 @@
      </collection>
   </files>
   <version>
-    <number>5.0</number>
+    <number>6.0</number>
     <release>0-alpha1</release>
   </version>
   <licence>GPL</licence>
@@ -63,10 +63,13 @@
                min-version="5.1" />
       <require type="ezpackage"
                name="ezstarrating_extension"
-               min-version="5.1" />
+               min-version="1.0" />
       <require type="ezpackage"
                name="ezgmaplocation_extension"
-               min-version="5.1" />
+               min-version="1.0" />
+      <require type="ezpackage"
+               name="ezpaypal_extension"
+               min-version="1.0" />
       <require type="ezpackage"
                name="ezwebin_extension"
                min-version="5.1" />
