@@ -1,5 +1,5 @@
 {if is_unset( $exceeded_limit ) }
-    {def $exceeded_limit=false()}
+ {def $exceeded_limit=false()}
 {/if}
 
 <div class="border-box">
@@ -17,30 +17,30 @@
 {/if}
 <ul>
 {foreach $remove_list as $remove_item}
-    {if $remove_item.childCount|gt(0)}
-        <li>{"%nodename and its %childcount children. %additionalwarning"
-             |i18n( 'design/ezwebin/node/removeobject',,
-                    hash( '%nodename', $remove_item.nodeName,
-                          '%childcount', $remove_item.childCount,
-                          '%additionalwarning', $remove_item.additionalWarning ) )}</li>
-    {else}
-        <li>{"%nodename %additionalwarning"
-             |i18n( 'design/ezwebin/node/removeobject',,
-                    hash( '%nodename', $remove_item.nodeName,
-                          '%additionalwarning', $remove_item.additionalWarning ) )}</li>
-    {/if}
+ {if $remove_item.childCount|gt(0)}
+ <li>{"%nodename and its %childcount children. %additionalwarning"
+ |i18n( 'design/ezwebin/node/removeobject',,
+ hash( '%nodename', $remove_item.nodeName,
+ '%childcount', $remove_item.childCount,
+ '%additionalwarning', $remove_item.additionalWarning ) )}</li>
+ {else}
+ <li>{"%nodename %additionalwarning"
+ |i18n( 'design/ezwebin/node/removeobject',,
+ hash( '%nodename', $remove_item.nodeName,
+ '%additionalwarning', $remove_item.additionalWarning ) )}</li>
+ {/if}
 {/foreach}
 </ul>
 </div>
 
 {if and( $move_to_trash_allowed, eq( $exceeded_limit, false() ) )}
-  <input type="hidden" name="SupportsMoveToTrash" value="1" />
-  <p><input type="checkbox" name="MoveToTrash" value="1" checked="checked" />{'Move to trash'|i18n('design/ezwebin/node/removeobject')}</p>
+ <input type="hidden" name="SupportsMoveToTrash" value="1">
+ <p><input type="checkbox" name="MoveToTrash" value="1" checked="checked">{'Move to trash'|i18n('design/ezwebin/node/removeobject')}</p>
 
-  <p><strong>{"Note"|i18n("design/ezwebin/node/removeobject")}:</strong> {"If %trashname is checked, removed items can be found in the trash."
-                                                    |i18n( 'design/ezwebin/node/removeobject',,
-                                                           hash( '%trashname', concat( '<i>', 'Move to trash' | i18n( 'design/ezwebin/node/removeobject' ), '</i>' ) ) )}</p>
-  <br />
+ <p><strong>{"Note"|i18n("design/ezwebin/node/removeobject")}:</strong> {"If %trashname is checked, removed items can be found in the trash."
+ |i18n( 'design/ezwebin/node/removeobject',,
+ hash( '%trashname', concat( '<i>', 'Move to trash' | i18n( 'design/ezwebin/node/removeobject' ), '</i>' ) ) )}</p>
+ <br>
 {/if}
 
 

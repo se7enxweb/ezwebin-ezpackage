@@ -1,5 +1,5 @@
 {def $collection = cond( $collection_id, fetch( content, collected_info_collection, hash( collection_id, $collection_id ) ),
-                          fetch( content, collected_info_collection, hash( contentobject_id, $node.contentobject_id ) ) )}
+ fetch( content, collected_info_collection, hash( contentobject_id, $node.contentobject_id ) ) )}
 
 {set-block scope=global variable=title}{'Form %formname'|i18n( 'design/ezwebin/collectedinfo/form', , hash( '%formname', $node.name|wash() ) )}{/set-block}
 
@@ -8,7 +8,7 @@
 <div class="border-ml"><div class="border-mr"><div class="border-mc">
 
 <div class="attribute-header">
-    <h1>{$object.name|wash}</h1>
+ <h1>{$object.name|wash}</h1>
 </div>
 
 <p>{'Thank you for your feedback.'|i18n( 'design/ezwebin/collectedinfo/form' )}</p>
@@ -27,7 +27,7 @@
 
 {/foreach}
 
-<p/>
+<p>
 
 <a href={$node.parent.url|ezurl}>{'Return to site'|i18n('design/ezwebin/collectedinfo/form')}</a>
 
