@@ -90,7 +90,7 @@ class eZWebinInstaller extends eZSiteInstaller
             'ezautosave', 
             'ezodf', 
             'ezie', 
-            'ezprestapiprovider', 
+            'ezprestapi', 
             strtolower( $this->solutionExtensionName() ), 
             'ezpaypal', 
             'owsimpleoperator',
