@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package version="5.0-0"
+<package version="5.3.0"
          development="false"
          install_type="import">
   <name>ezwebin_design_gray</name>
@@ -8,8 +8,8 @@
   <vendor>eZ systems</vendor>
   <type value="sitestyle" />
   <ezpublish>
-    <version>5.0.0-alpha1</version>
-    <named-version>5.0</named-version>
+    <version>5.3.0</version>
+    <named-version>5.3</named-version>
   </ezpublish>
   <maintainers>
     <maintainer>
@@ -41,25 +41,25 @@
                  variable-name="thumbnail">
         <file name="thumbnail.png"
               path="var/storage/temp/thumbnail.png"
-              md5sum="d0a098ad93432761ff270ea553e549d4" />
+              md5sum="f53adf61701e8749d26b035bddc27dae" />
       </file-list>
       <file-list type="file"
                  variable-name="sitecssfile">
         <file name="site-colors.css"
               path="var/storage/temp/site-colors.css"
-              md5sum="74c783c0aff85a585311e3ce31cdac29" />
+              md5sum="8ea5cb450c7688aaf9e9efabcf46b3b1" />
       </file-list>
       <file-list type="file"
                  variable-name="classescssfile">
         <file name="classes-colors.css"
               path="var/storage/temp/classes-colors.css"
-              md5sum="1a1ed64f28bec7d535b69207c81ad026" />
+              md5sum="f02a7c10df63c0942d7cf75373dad5dc" />
       </file-list>
     </collection>
   </files>
   <version>
-    <number>5.0</number>
-    <release>0-alpha1</release>
+    <number>5.3</number>
+    <release>0</release>
   </version>
   <licence>GPL</licence>
   <state>stable</state>
