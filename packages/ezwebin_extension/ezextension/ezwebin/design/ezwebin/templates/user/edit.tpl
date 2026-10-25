@@ -7,42 +7,44 @@
 <div class="user-edit">
 
 <div class="attribute-header">
- <h1 class="long">{"User profile"|i18n("design/ezwebin/user/edit")}</h1>
+  <h1 class="long">{"User profile"|i18n("design/ezwebin/user/edit")}</h1>
+</div>
+
+{include uri='design:mailpreferences/parts/account_link.tpl' context='profile'}
+
+<div class="block">
+  <label>{"Username"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
+  <p class="box">{$userAccount.login|wash}</p>
 </div>
 
 <div class="block">
- <label>{"Username"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
- <p class="box">{$userAccount.login|wash}</p>
+  <label>{"Email"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
+  <p class="box">{$userAccount.email|wash(email)}</p>
 </div>
 
 <div class="block">
- <label>{"Email"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
- <p class="box">{$userAccount.email|wash(email)}</p>
-</div>
-
-<div class="block">
- <label>{"Name"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
- <p class="box">{$userAccount.contentobject.name|wash}</p>
+  <label>{"Name"|i18n("design/ezwebin/user/edit")}</label><div class="labelbreak"></div>
+  <p class="box">{$userAccount.contentobject.name|wash}</p>
 </div>
 
 {if fetch( 'user', 'has_access_to', hash( 'module', 'content',
- 'function', 'edit' ) )}
+                                          'function', 'edit' ) )}
 <p><a href={"content/draft"|ezurl}>{"My drafts"|i18n("design/ezwebin/user/edit")}</a></p>
 {/if}
 {if fetch( 'user', 'has_access_to', hash( 'module', 'shop',
- 'function', 'administrate' ) )}
+                                          'function', 'administrate' ) )}
 <p><a href={concat("/shop/customerorderview/", $userID, "/", $userAccount.email)|ezurl}>{"My orders"|i18n("design/ezwebin/user/edit")}</a></p>
 {/if}
 {if fetch( 'user', 'has_access_to', hash( 'module', 'content',
- 'function', 'pendinglist' ) )}
+                                          'function', 'pendinglist' ) )}
 <p><a href={"/content/pendinglist"|ezurl}>{"My pending items"|i18n("design/ezwebin/user/edit")}</a></p>
 {/if}
 {if fetch( 'user', 'has_access_to', hash( 'module', 'notification',
- 'function', 'use' ) )}
+                                          'function', 'use' ) )}
 <p><a href={"notification/settings"|ezurl}>{"My notification settings"|i18n("design/ezwebin/user/edit")}</a></p>
 {/if}
 {if fetch( 'user', 'has_access_to', hash( 'module', 'shop',
- 'function', 'buy' ) )}
+                                          'function', 'buy' ) )}
 <p><a href={"/shop/wishlist"|ezurl}>{"My wish list"|i18n("design/ezwebin/user/edit")}</a></p>
 {/if}
 

@@ -1,5 +1,5 @@
 {if $pagedesign.data_map.footer_script.has_content}
-<script>
+<script >
  {$pagedesign.data_map.footer_script.content}
 </script>
 {/if}

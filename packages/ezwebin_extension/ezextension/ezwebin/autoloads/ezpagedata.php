@@ -7,6 +7,7 @@
 // ## BEGIN COPYRIGHT, LICENSE AND WARRANTY NOTICE ##
 // SOFTWARE NAME: eZ Publish Website Interface
 // SOFTWARE RELEASE: 1.4-0
+// COPYRIGHT NOTICE: Copyright (C) 1998 - 2026 7x & Exponential Foundation
 // COPYRIGHT NOTICE: Copyright (C) 1999-2014 eZ Systems AS
 // SOFTWARE LICENSE: GNU General Public License v2.0
 // NOTICE: >
@@ -155,7 +156,7 @@ class eZPageData
                 {
                    $currentNodeId = (int) $moduleResult['node_id'];
                 }
-                else if ( isset( $moduleResult['path'], $moduleResult['path'][count( $moduleResult['path'] ) - 1]['node_id'] ) )
+                else if ( isset( $moduleResult['path'], $moduleResult['path'][ $moduleResult['path'] != false && count( $moduleResult['path'] ) - 1]['node_id'] ) )
                 {
                    $currentNodeId = (int) $moduleResult['path'][count( $moduleResult['path'] ) - 1]['node_id'];
                 }
@@ -166,7 +167,7 @@ class eZPageData
                 $contentIni               = eZINI::instance( 'content.ini' );
                 $uiContext                = $tpl->variable('ui_context');
                 $uriString                = $tpl->variable('uri_string');
-                $pageDepth                = isset( $moduleResult['path'] ) ? count( $moduleResult['path'] ) : 0;
+                $pageDepth                = isset( $moduleResult['path'] ) ? $moduleResult['path'] != false && count( $moduleResult['path'] ) : 0;
                 $pageData['main_node_id'] = isset( $contentInfo['main_node_id'] ) ? $contentInfo['main_node_id'] : $currentNodeId;
                 $pageData['show_path']           = 'path';
                 $pageData['website_toolbar']     = false;

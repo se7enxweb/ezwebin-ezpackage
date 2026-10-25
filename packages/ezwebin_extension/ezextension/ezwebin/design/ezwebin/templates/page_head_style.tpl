@@ -22,5 +22,5 @@
 <link rel="stylesheet" href={ezini('StylesheetSettings','SiteCSS','design.ini')|ezroot()}>
 <link rel="stylesheet" href={"stylesheets/print.css"|ezdesign} media="print">
 <!-- IE conditional comments; for bug fixes for different IE versions -->
-<!--[if IE 5]> <style> @import url({"stylesheets/browsers/ie5.css"|ezdesign(no)}); </style> <![endif]-->
-<!--[if lte IE 7]> <style> @import url({"stylesheets/browsers/ie7lte.css"|ezdesign(no)}); </style> <![endif]-->
+<!--[if IE 5]> <style > @import url({"stylesheets/browsers/ie5.css"|ezdesign(no)}); </style> <![endif]-->
+<!--[if lte IE 7]> <style > @import url({"stylesheets/browsers/ie7lte.css"|ezdesign(no)}); </style> <![endif]-->

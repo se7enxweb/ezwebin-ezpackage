@@ -1,7 +1,7 @@
 {def $settings=$handler.settings}
 
 <div class="block">
- <label><input type="checkbox" name="ReceiveDigest_{$handler.id_string}" {$settings.receive_digest|choose( '', checked)}> {'Receive all messages combined in one digest'|i18n( 'design/ezwebin/notification/handler/ezgeneraldigest/settings/edit' )}</label>
+    <label><input type="checkbox" name="ReceiveDigest_{$handler.id_string}" {$settings.receive_digest|choose( '', checked)}> {'Receive all messages combined in one digest'|i18n( 'design/ezwebin/notification/handler/ezgeneraldigest/settings/edit' )}</label>
 </div>
 
 <div class="block">

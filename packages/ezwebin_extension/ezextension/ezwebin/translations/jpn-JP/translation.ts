@@ -1068,12 +1068,12 @@
 <context>
     <name>design/ezwebin/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
-        <translation>eZ Publish情報: %version</translation>
+        <source>Exponential information: %version</source>
+        <translation>Exponential情報: %version</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>eZ Publishとは?</translation>
+        <source>What is Exponential?</source>
+        <translation>Exponentialとは?</translation>
     </message>
     <message>
         <source>Licence</source>
@@ -1125,16 +1125,16 @@
         <translation>OpenOffice.org形式エクスポート</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>eZ PublishコンテンツをOpenOffice.orgファイルとしてエクスポートする</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>ExponentialコンテンツをOpenOffice.orgファイルとしてエクスポートする</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>eZ PublishのオブジェクトをOpenOffice.orgライタードキュメント形式にエクスポートをすることができます。</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>ExponentialのオブジェクトをOpenOffice.orgライタードキュメント形式にエクスポートをすることができます。</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1184,11 +1184,11 @@
         <translation>インポート先</translation>
     </message>
     <message>
-        <source>You can import OpenOffice.org Writer documents directly into eZ publish from this page. You are
-asked where to place the document and eZ publish does the rest. The document is converted into
+        <source>You can import OpenOffice.org Writer documents directly into Exponential from this page. You are
+asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
-        <translation>OpenOffice.org Writerドキュメントを直接eZ Publishにインポートします。ドキュメントの配置先を選択する必要があります。
+        <translation>OpenOffice.org Writerドキュメントを直接Exponentialにインポートします。ドキュメントの配置先を選択する必要があります。
 ドキュメントは自動的に適切なクラスに変換されます。インポートが終わりましたら、通知が表示されます。
 画像はメディアリソースに登録されるため、他のオブジェクトと共有できます。</translation>
     </message>
@@ -1843,8 +1843,8 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation>サイトURL</translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
-        <translation>サイトのベースURLはこのフィールドで設定できます。エクスポートする際のURLに使われます、サイトURL（例えば&quot;http://www.example.com/index.php&quot;）とオブジェクトへのパス(例えば&quot;/articles/my_article&quot;)の組み合わせになります。サイトURLはeZ Publishの設定とウェブサーバに依存します。</translation>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
+        <translation>サイトのベースURLはこのフィールドで設定できます。エクスポートする際のURLに使われます、サイトURL（例えば&quot;http://www.example.com/index.php&quot;）とオブジェクトへのパス(例えば&quot;/articles/my_article&quot;)の組み合わせになります。サイトURLはExponentialの設定とウェブサーバに依存します。</translation>
     </message>
     <message>
         <source>Leave this field emty if you want system automaticaly detect the URL of your site from the URL you access feed with</source>
@@ -2859,8 +2859,8 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation>パスワードを忘れましたか?</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>eZ Publishの管理画面にログインする</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Exponentialの管理画面にログインする</translation>
     </message>
     <message>
         <source>Sign up</source>

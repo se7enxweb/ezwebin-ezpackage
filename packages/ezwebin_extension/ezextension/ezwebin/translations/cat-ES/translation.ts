@@ -1067,12 +1067,12 @@
 <context>
     <name>design/ezwebin/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
-        <translation>Informació d&apos;eZ Publish: %version</translation>
+        <source>Exponential information: %version</source>
+        <translation>Informació d&apos;Exponential: %version</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>Què és eZ Publish?</translation>
+        <source>What is Exponential?</source>
+        <translation>Què és Exponential?</translation>
     </message>
     <message>
         <source>Licence</source>
@@ -1125,16 +1125,16 @@
         <translation>Exportació OpenOffice.org</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>Exporta el contingut eZ publish a OpenOffice.org</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>Exporta el contingut Exponential a OpenOffice.org</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>Aquí pots exportar qualsevol objecte de contingut eZ publish a format OpenOffice.org Writer.</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>Aquí pots exportar qualsevol objecte de contingut Exponential a format OpenOffice.org Writer.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1184,11 +1184,11 @@
         <translation>Importa a</translation>
     </message>
     <message>
-        <source>You can import OpenOffice.org Writer documents directly into eZ publish from this page. You are
-asked where to place the document and eZ publish does the rest. The document is converted into
+        <source>You can import OpenOffice.org Writer documents directly into Exponential from this page. You are
+asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
-        <translation>Pots importar documents OpenOffice.org directament a eZ publish des d&apos;aquesta pàgina. eZ publish et preguntarà
+        <translation>Pots importar documents OpenOffice.org directament a Exponential des d&apos;aquesta pàgina. Exponential et preguntarà
 on vols col·locar el document i el programa farà la resta. El document es converteix en
 la classe apropiada durant la importació i el programa t&apos;envia una notificació quan la importació finalitza.
 Les imatges es col·loquen a la biblioteca multimèdia per a poder ser reutilitzades en altres articles. </translation>
@@ -1844,7 +1844,7 @@ Les imatges es col·loquen a la biblioteca multimèdia per a poder ser reutilitz
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2847,8 +2847,8 @@ Les imatges es col·loquen a la biblioteca multimèdia per a poder ser reutilitz
         <translation>Contrasenya</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>Connecta a la interfície d&apos;administració d&apos;eZ Publish</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Connecta a la interfície d&apos;administració d&apos;Exponential</translation>
     </message>
     <message>
         <source>Remember me</source>

@@ -1064,12 +1064,12 @@ Parametrit ovat linkitettynä alku- ja loppumerkkeihin</translation>
 <context>
     <name>design/ezwebin/ezinfo/about</name>
     <message>
-        <source>eZ Publish information: %version</source>
-        <translation>eZ Publish tiedot: %version</translation>
+        <source>Exponential information: %version</source>
+        <translation>Exponential tiedot: %version</translation>
     </message>
     <message>
-        <source>What is eZ Publish?</source>
-        <translation>Mikä on eZ Publish?</translation>
+        <source>What is Exponential?</source>
+        <translation>Mikä on Exponential?</translation>
     </message>
     <message>
         <source>Licence</source>
@@ -1118,16 +1118,16 @@ Parametrit ovat linkitettynä alku- ja loppumerkkeihin</translation>
         <translation>OpenOffice.org-vienti</translation>
     </message>
     <message>
-        <source>Export eZ publish content to OpenOffice.org</source>
-        <translation>Vie eZ Publish -sisältö OpenOffice.org:iin</translation>
+        <source>Export Exponential content to OpenOffice.org</source>
+        <translation>Vie Exponential -sisältö OpenOffice.org:iin</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Virhe</translation>
     </message>
     <message>
-        <source>Here you can export any eZ publish content object to an OpenOffice.org Writer document format.</source>
-        <translation>Täällä voit viedä minkä tahansa eZ Publish-sisältöobjektin OpenOffice.org Writer -asiakirjamuotoon.</translation>
+        <source>Here you can export any Exponential content object to an OpenOffice.org Writer document format.</source>
+        <translation>Täällä voit viedä minkä tahansa Exponential-sisältöobjektin OpenOffice.org Writer -asiakirjamuotoon.</translation>
     </message>
     <message>
         <source>Export Object</source>
@@ -1177,8 +1177,8 @@ Parametrit ovat linkitettynä alku- ja loppumerkkeihin</translation>
         <translation>Tuo</translation>
     </message>
     <message>
-        <source>You can import OpenOffice.org Writer documents directly into eZ publish from this page. You are
-asked where to place the document and eZ publish does the rest. The document is converted into
+        <source>You can import OpenOffice.org Writer documents directly into Exponential from this page. You are
+asked where to place the document and Exponential does the rest. The document is converted into
 the appropriate class during the import, you get a notice about this after the import is done.
 Images are placed in the media library so you can re-use them in other articles.</source>
         <translation type="unfinished"></translation>
@@ -1834,7 +1834,7 @@ Images are placed in the media library so you can re-use them in other articles.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and eZ Publish configuration.</source>
+        <source>Use this field to enter the base URL of your site. It is used to produce the URLs in the export, composed by the Site URL (e.g. &quot;http://www.example.com/index.php&quot;) and the path to the object (e.g. &quot;/articles/my_article&quot;). The Site URL depends on your web server and Exponential configuration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2839,8 +2839,8 @@ Käyttäjänimi</translation>
         <translation>Salasana</translation>
     </message>
     <message>
-        <source>Log in to the eZ Publish Administration Interface</source>
-        <translation>Kirjaudu eZ Publish-hallintaohjelmaan</translation>
+        <source>Log in to the Exponential Administration Interface</source>
+        <translation>Kirjaudu Exponential-hallintaohjelmaan</translation>
     </message>
     <message>
         <source>Remember me</source>

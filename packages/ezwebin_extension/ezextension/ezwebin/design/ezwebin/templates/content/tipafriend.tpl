@@ -5,24 +5,24 @@
 <div class="content-tipafriend">
 
 <div class="attribute-header">
- <h1 class="long">{"Tip a friend"|i18n("design/ezwebin/content/tipafriend")}</h1>
+    <h1 class="long">{"Tip a friend"|i18n("design/ezwebin/content/tipafriend")}</h1>
 </div>
 
 {switch name=Sw match=$action}
- {case match="confirm"}
- <div class="message-feedback">
- <h2>{"The message was sent."|i18n("design/ezwebin/content/tipafriend")}</h2>
- <p><a href={concat("/content/view/full/",$node_id)|ezurl}>{"Click here to return to the original page."|i18n("design/ezwebin/content/tipafriend")}</a></p>
- </div>
- {/case}
- {case match="error"}
- <div class="message-warning">
- <h2>{"The message was not sent."|i18n("design/ezwebin/content/tipafriend")}</h2>
- <p>{"The message was not sent due to an unknown error. Please notify the site administrator about this error."|i18n("design/ezwebin/content/tipafriend")}</p>
- <p><a href={concat("/content/view/full/",$node_id)|ezurl}>{"Click here to return to the original page."|i18n("design/ezwebin/content/tipafriend")}</a></p>
- </div>
- {/case}
- {case}
+  {case match="confirm"}
+    <div class="message-feedback">
+      <h2>{"The message was sent."|i18n("design/ezwebin/content/tipafriend")}</h2>
+      <p><a href={concat("/content/view/full/",$node_id)|ezurl}>{"Click here to return to the original page."|i18n("design/ezwebin/content/tipafriend")}</a></p>
+    </div>
+  {/case}
+  {case match="error"}
+    <div class="message-warning">
+      <h2>{"The message was not sent."|i18n("design/ezwebin/content/tipafriend")}</h2>
+      <p>{"The message was not sent due to an unknown error. Please notify the site administrator about this error."|i18n("design/ezwebin/content/tipafriend")}</p>
+      <p><a href={concat("/content/view/full/",$node_id)|ezurl}>{"Click here to return to the original page."|i18n("design/ezwebin/content/tipafriend")}</a></p>
+    </div>
+  {/case}
+  {case}
 
 {section show=$error_strings}
 <div class="message-warning">
@@ -64,7 +64,7 @@
 
 </form>
 
- {/case}
+  {/case}
 {/switch}
 
 </div>

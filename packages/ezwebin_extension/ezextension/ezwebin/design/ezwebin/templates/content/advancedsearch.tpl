@@ -1,36 +1,36 @@
 {def $search=false()}
 {if $use_template_search}
- {set $page_limit=10}
- {switch match=$search_page_limit}
- {case match=1}
- {set $page_limit=5}
- {/case}
- {case match=2}
- {set $page_limit=10}
- {/case}
- {case match=3}
- {set $page_limit=20}
- {/case}
- {case match=4}
- {set $page_limit=30}
- {/case}
- {case match=5}
- {set $page_limit=50}
- {/case}
- {/switch}
- {set $search=fetch(content,search,
- hash(text,$search_text,
- section_id,$search_section_id,
- subtree_array,$search_sub_tree,
- class_id,$search_contentclass_id,
- class_attribute_id,$search_contentclass_attribute_id,
- offset,$view_parameters.offset,
- publish_date,$search_date,
- limit,$page_limit))}
- {set $search_result=$search['SearchResult']}
- {set $search_count=$search['SearchCount']}
- {set $stop_word_array=$search['StopWordArray']}
- {set $search_data=$search}
+    {set $page_limit=10}
+    {switch match=$search_page_limit}
+    {case match=1}
+        {set $page_limit=5}
+    {/case}
+    {case match=2}
+        {set $page_limit=10}
+    {/case}
+    {case match=3}
+        {set $page_limit=20}
+    {/case}
+    {case match=4}
+        {set $page_limit=30}
+    {/case}
+    {case match=5}
+        {set $page_limit=50}
+    {/case}
+    {/switch}
+    {set $search=fetch(content,search,
+                      hash(text,$search_text,
+                           section_id,$search_section_id,
+                           subtree_array,$search_sub_tree,
+                           class_id,$search_contentclass_id,
+                           class_attribute_id,$search_contentclass_attribute_id,
+                           offset,$view_parameters.offset,
+                           publish_date,$search_date,
+                           limit,$page_limit))}
+    {set $search_result=$search['SearchResult']}
+    {set $search_count=$search['SearchCount']}
+    {set $stop_word_array=$search['StopWordArray']}
+    {set $search_data=$search}
 {/if}
 
 <div class="border-box">
@@ -41,7 +41,7 @@
 
 <form action={"/content/advancedsearch/"|ezurl} method="get">
 <div class="attribute-header">
- <h1 class="long">{'Advanced search'|i18n( 'design/ezwebin/content/advancedsearch' )}</h1>
+    <h1 class="long">{'Advanced search'|i18n( 'design/ezwebin/content/advancedsearch' )}</h1>
 </div>
 
 <div class="block">
@@ -96,33 +96,33 @@
 {if or( $search_text, eq( ezini( 'SearchSettings', 'AllowEmptySearch', 'site.ini'), 'enabled' ) )}
 <br>
 {switch name=Sw match=$search_count}
- {case match=0}
+  {case match=0}
 <div class="warning">
 <h2>{'No results were found when searching for "%1"'|i18n( 'design/ezwebin/content/advancedsearch', , array( $search_text|wash ) )}</h2>
 </div>
- {/case}
- {case}
+  {/case}
+  {case}
 <div class="feedback">
 <h2>{'Search for "%1" returned %2 matches'|i18n( 'design/ezwebin/content/advancedsearch',,array( $search_text|wash, $search_count ) )}</h2>
 </div>
- {/case}
+  {/case}
 {/switch}
 
 {if $search_result|count()}
 {foreach $search_result as $element}
- {node_view_gui view=line content_node=$element}
+   {node_view_gui view=line content_node=$element}
 {/foreach}
 {/if}
 
 {/if}
 
 {include name=navigator
- uri='design:navigator/google.tpl'
- page_uri='/content/advancedsearch'
- page_uri_suffix=concat('?SearchText=',$search_text|urlencode,'&PhraseSearchText=',$phrase_search_text|urlencode,'&SearchContentClassID=',$search_contentclass_id,'&SearchContentClassAttributeID=',$search_contentclass_attribute_id,'&SearchSectionID=',$search_section_id,$search_timestamp|gt(0)|choose('',concat('&SearchTimestamp=',$search_timestamp)),$search_sub_tree|gt(0)|choose( '', concat( '&', 'SubTreeArray[]'|urlencode, '=', $search_sub_tree|implode( concat( '&', 'SubTreeArray[]'|urlencode, '=' ) ) ) ),'&SearchDate=',$search_date,'&SearchPageLimit=',$search_page_limit)
- item_count=$search_count
- view_parameters=$view_parameters
- item_limit=$page_limit}
+         uri='design:navigator/google.tpl'
+         page_uri='/content/advancedsearch'
+         page_uri_suffix=concat('?SearchText=',$search_text|urlencode,'&PhraseSearchText=',$phrase_search_text|urlencode,'&SearchContentClassID=',$search_contentclass_id,'&SearchContentClassAttributeID=',$search_contentclass_attribute_id,'&SearchSectionID=',$search_section_id,$search_timestamp|gt(0)|choose('',concat('&SearchTimestamp=',$search_timestamp)),$search_sub_tree|gt(0)|choose( '', concat( '&', 'SubTreeArray[]'|urlencode, '=', $search_sub_tree|implode( concat( '&', 'SubTreeArray[]'|urlencode, '=' ) ) ) ),'&SearchDate=',$search_date,'&SearchPageLimit=',$search_page_limit)
+         item_count=$search_count
+         view_parameters=$view_parameters
+         item_limit=$page_limit}
 
 </form>
 
