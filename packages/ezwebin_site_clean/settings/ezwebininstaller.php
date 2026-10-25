@@ -195,7 +195,8 @@ class eZWebinInstaller extends eZSiteInstaller
                 '_function' => 'swapNodes', 
                 '_params' => array( 
                     'src_node' => array( 
-                        'name' => "eZ Publish" 
+                        'name' => 'Websites', 
+                        'remote_id' => '9459d3c29e15006e45197295722c7ade' 
                     ), 
                     'dst_node' => array( 
                         'name' => "Home" 
@@ -205,7 +206,8 @@ class eZWebinInstaller extends eZSiteInstaller
             array( 
                 '_function' => 'removeContentObject', 
                 '_params' => array( 
-                    'name' => 'eZ Publish' 
+                    'name' => 'Websites', 
+                    'remote_id' => '9459d3c29e15006e45197295722c7ade' 
                 ) 
             ), 
             array( 
@@ -3833,6 +3835,21 @@ class eZWebinInstaller extends eZSiteInstaller
                 ) 
             ) 
         );
+    }
+
+    /*!
+     The object a step names: by its remote id when the step gives one ('remote_id'), else by its name as the kernel
+     finds it. The content root of the clean data is named by remote id, since its name changed from release to
+     release (Exponential 6 names it "Websites").
+    */
+    function contentObjectByName( $params )
+    {
+        if ( isset( $params['remote_id'] ) )
+        {
+            $object = eZContentObject::fetchByRemoteID( $params['remote_id'] );
+            return is_object( $object ) ? $object : false;
+        }
+        return parent::contentObjectByName( $params );
     }
 }
 ?>
