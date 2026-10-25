@@ -10,7 +10,8 @@
 #     whoever made the checkout and whatever its umask;
 #   - every entry carries one modification time: SOURCE_DATE_EPOCH when it is set, otherwise the time of the
 #     last commit that changed the package folder (a package nobody changed keeps its bytes when other
-#     packages change); outside a git checkout, the build time, with a warning;
+#     packages change); outside a git checkout, the build time, with a warning. A git checkout that git
+#     refuses to read stops the build instead;
 #   - gzip writes no name and no time stamp into its header.
 #
 # Left out of every package: version control folders and files (.git, .gitignore, .gitattributes,
@@ -53,6 +54,15 @@ for folder in *; do
         mtime=${SOURCE_DATE_EPOCH}
     else
         mtime=$(git log -1 --format=%ct -- "${folder}" 2>/dev/null)
+        if [ -z "${mtime}" ] && [ -e ../.git ]; then
+            # A checkout git refuses to read (for one owned by another user: "dubious ownership") would
+            # otherwise be stamped with the build time and never match the published package.
+            echo "git cannot read the time of ${folder} in this checkout:" >&2
+            git log -1 --format=%ct -- "${folder}" 2>&1 >/dev/null | sed 's/^/    /' >&2
+            echo "Run as the checkout's owner, allow it (git config --global --add safe.directory <path>)" \
+                 "or set SOURCE_DATE_EPOCH." >&2
+            exit 1
+        fi
         if [ -z "${mtime}" ]; then
             echo "Warning: ${folder} is not in a git checkout and SOURCE_DATE_EPOCH is not set; using the build time" >&2
             mtime=$(date +%s)
