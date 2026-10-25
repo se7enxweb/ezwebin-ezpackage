@@ -6,7 +6,7 @@
   <name>ezwebin_site</name>
   <summary>Website Interface</summary>
   <description>This package provides only eZ Webin. Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems.</description>
-  <vendor>eZ systems</vendor>
+  <vendor>7x</vendor>
   <type value="site" />
   <ezpublish>
     <version>6.0.0-alpha1</version>

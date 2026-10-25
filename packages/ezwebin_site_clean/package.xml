@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package version="5.0-0"
+<package version="6.0-0"
          development="false"
          is_active="true"
          install_type="import">
   <name>ezwebin_site_clean</name>
   <summary>Website Interface (without demo content)</summary>
-  <description>Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems.</description>
-  <vendor>eZ systems</vendor>
+  <description>This package provides only eZ Webin. Website Interface is a web based CMS solution based on eZ Publish. It contains templates and settings that meets the most common requirements for content management systems.</description>
+  <vendor>7x</vendor>
   <type value="site" />
   <ezpublish>
     <version>6.0.0-alpha1</version>
