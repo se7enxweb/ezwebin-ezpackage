@@ -1508,7 +1508,7 @@ class eZWebinInstaller extends eZSiteInstaller
                 "DataText" => "Site settings" 
             ), 
             "footer_text" => array( 
-                "DataText" => "Copyright &#169; " . date( 'Y' ) . " <a href=\"https://se7enx.com\" title=\"7x\">7x</a> (except where otherwise noted). All rights reserved." 
+                "DataText" => "<a href=\"https://exponential.earth\">Exponential</a> Copyright &#169; 1998-2026 Exponential Foundation and 7x" 
             ), 
             "hide_powered_by" => array( 
                 "DataInt" => 0 
