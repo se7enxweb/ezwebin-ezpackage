@@ -2909,7 +2909,7 @@ Les imatges es col·loquen a la biblioteca multimèdia per a poder ser reutilitz
     </message>
     <message>
         <source>The new password must be at least %1 characters long, please retype your new password.</source>
-        <translation>La nova contrasenya ha de tenir com a mínim % 1 characters long, si us plau torna a escriure la nova contrasenya.</translation>
+        <translation>La nova contrasenya ha de tenir com a mínim %1 caràcters. Torna a escriure la nova contrasenya.</translation>
     </message>
 </context>
 <context>

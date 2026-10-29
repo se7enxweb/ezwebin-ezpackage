@@ -161,7 +161,7 @@
     <name>design/ezwebin/collectedinfo/poll</name>
     <message>
         <source>Poll %pollname</source>
-        <translation>Kysely %kyselynnim</translation>
+        <translation>Kysely %pollname</translation>
     </message>
     <message>
         <source>Results</source>

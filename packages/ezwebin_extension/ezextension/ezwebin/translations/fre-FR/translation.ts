@@ -2705,7 +2705,7 @@ Les images sont placées dans la médiathèque, vous pouvez les réutiliser dans
     </message>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>Plier / Déplier</translation>
+        <translation>ID du nœud : %node_id Visibilité : %visibility</translation>
     </message>
 </context>
 <context>

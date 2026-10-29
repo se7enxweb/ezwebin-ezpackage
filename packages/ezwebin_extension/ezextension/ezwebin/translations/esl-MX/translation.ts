@@ -1663,7 +1663,7 @@ Las imágenes se colocan en la biblioteca multimedia para que puedas reutilizarl
     </message>
     <message>
         <source>The items contain more than the maximum possible nodes for subtree removal and will not be deleted. You can remove this subtree using the ezsubtreeremove.php script.</source>
-        <translation>Estos elementos sobrepasan el máximo de nodos posibles para eliminar por subárbol y no se eliminarán. Puedes eliminar este subárbol usando el script ezsubtreeremove.php.</translation>
+        <translation>Estos elementos sobrepasan el máximo de nudos posibles para eliminar por subárbol y no se eliminarán. Puedes eliminar este subárbol usando el script ezsubtreeremove.php.</translation>
     </message>
     <message>
         <source>Warning:</source>
@@ -2987,11 +2987,11 @@ Las imágenes se colocan en la biblioteca multimedia para que puedas reutilizarl
     </message>
     <message>
         <source>Your browser does not support html5 video.</source>
-        <translation>Su navegador web no soporta video html5.</translation>
+        <translation>Tu navegador web no soporta video html5.</translation>
     </message>
     <message>
         <source>Your browser does not support html5 audio.</source>
-        <translation>Su navegador web no soporta audio html5.</translation>
+        <translation>Tu navegador web no soporta audio html5.</translation>
     </message>
     <message>
         <source>Get Microsoft Silverlight</source>
@@ -3073,7 +3073,7 @@ Las imágenes se colocan en la biblioteca multimedia para que puedas reutilizarl
     <name>design/standard/user</name>
     <message>
         <source>Your email address has been confirmed. An administrator needs to approve your sign up request, before your login becomes valid.</source>
-        <translation>Su dirección de email ha sido confirmada. Un administrador necesita aprovar su solicitud de registro, antes su cuenta sea válida.</translation>
+        <translation>Tu dirección de correo electrónico se confirmó. Un administrador tiene que aprobar tu solicitud de registro antes de que tu cuenta sea válida.</translation>
     </message>
     <message>
         <source>Your account is now activated.</source>

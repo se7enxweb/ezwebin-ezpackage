@@ -775,7 +775,7 @@
     </message>
     <message>
         <source>New drafts [%newerDraftCount]</source>
-        <translation>新規ドラフト</translation>
+        <translation>新規ドラフト [%newerDraftCount]</translation>
     </message>
     <message>
         <source>This object does not have any drafts.</source>
@@ -2706,7 +2706,7 @@ Images are placed in the media library so you can re-use them in other articles.
     </message>
     <message>
         <source>Node ID: %node_id Visibility: %visibility</source>
-        <translation>ノードID: %node_id 表示設定: %node_visibility </translation>
+        <translation>ノードID: %node_id 表示設定: %visibility</translation>
     </message>
 </context>
 <context>

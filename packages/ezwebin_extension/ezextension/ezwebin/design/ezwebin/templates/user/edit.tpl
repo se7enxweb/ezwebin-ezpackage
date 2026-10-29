@@ -47,6 +47,16 @@
                                           'function', 'buy' ) )}
 <p><a href={"/shop/wishlist"|ezurl}>{"My wish list"|i18n("design/ezwebin/user/edit")}</a></p>
 {/if}
+{* The kernel's own account pages, where the kernel has them: passkeys (user/passkeys) and the devices signed in
+   (user/sessions, unless [UserSessionSettings] Tracking is disabled), as on the standard design's profile page *}
+{if ezmodule( 'user/passkeys' )}
+<p><a href={'user/passkeys'|ezurl}>{'Passkeys'|i18n( 'design/standard/user/passkeys' )}</a></p>
+{/if}
+{if ezmodule( 'user/sessions' )}
+{if and( fetch( 'user', 'current_user' ).is_logged_in, ne( ezini( 'UserSessionSettings', 'Tracking' ), 'disabled' ) )}
+<p><a href={'user/sessions'|ezurl}>{'Your devices'|i18n( 'design/standard/user/sessions' )}</a></p>
+{/if}
+{/if}
 
 <div class="buttonblock">
 <input class="button" type="submit" name="EditButton" value="{'Edit profile'|i18n('design/ezwebin/user/edit')}">
