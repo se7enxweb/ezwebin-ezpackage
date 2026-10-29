@@ -12,7 +12,7 @@
     <named-version>6.0</named-version>
   </ezpublish>
   <packaging>
-    <timestamp>1793255567</timestamp>
+    <timestamp>1793301732</timestamp>
     <host>packages.ez.no</host>
   </packaging>
   <documents>
@@ -22,7 +22,7 @@
   <simple-files />
   <version>
     <number>6.0</number>
-    <release>30</release>
+    <release>31</release>
   </version>
   <licence>GPL</licence>
   <state>stable</state>
