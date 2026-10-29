@@ -5,23 +5,23 @@
     <name>design/admin/content/datatype</name>
     <message>
         <source>Year</source>
-        <translation type="unfinished">Jahr</translation>
+        <translation>Jahr</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished">Monat</translation>
+        <translation>Monat</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished">Tag</translation>
+        <translation>Tag</translation>
     </message>
     <message>
         <source>Hour</source>
-        <translation type="unfinished">Stunde</translation>
+        <translation>Stunde</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="unfinished">Minute</translation>
+        <translation>Minute</translation>
     </message>
 </context>
 <context>
@@ -351,11 +351,11 @@
     </message>
     <message>
         <source>Hour</source>
-        <translation type="obsolete">Stunde</translation>
+        <translation>Stunde</translation>
     </message>
     <message>
         <source>Minute</source>
-        <translation type="obsolete">Minute</translation>
+        <translation>Minute</translation>
     </message>
     <message>
         <source>Show calendar to select a date.</source>
@@ -366,79 +366,79 @@
     <name>design/ezwebin/content/diff</name>
     <message>
         <source>Versions for &lt;%object_name&gt; [%version_count]</source>
-        <translation type="obsolete">Versionen für &lt;%object_name&gt; [%version_count]</translation>
+        <translation>Versionen für &lt;%object_name&gt; [%version_count]</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="obsolete">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="obsolete">Übersetzungen</translation>
+        <translation>Übersetzungen</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="obsolete">Ersteller</translation>
+        <translation>Ersteller</translation>
     </message>
     <message>
         <source>Modified</source>
-        <translation type="obsolete">Geändert</translation>
+        <translation>Geändert</translation>
     </message>
     <message>
         <source>Draft</source>
-        <translation type="obsolete">Entwurf</translation>
+        <translation>Entwurf</translation>
     </message>
     <message>
         <source>Published</source>
-        <translation type="obsolete">Veröffentlicht</translation>
+        <translation>Veröffentlicht</translation>
     </message>
     <message>
         <source>Pending</source>
-        <translation type="obsolete">Schwebend</translation>
+        <translation>Schwebend</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="obsolete">Archiviert</translation>
+        <translation>Archiviert</translation>
     </message>
     <message>
         <source>Rejected</source>
-        <translation type="obsolete">Abgelehnt</translation>
+        <translation>Abgelehnt</translation>
     </message>
     <message>
         <source>Untouched draft</source>
-        <translation type="obsolete">Unberührter Entwurf</translation>
+        <translation>Unveränderter Entwurf</translation>
     </message>
     <message>
         <source>This object does not have any versions.</source>
-        <translation type="obsolete">Das Objekt hat keine Versionen.</translation>
+        <translation>Dieses Objekt hat keine Versionen.</translation>
     </message>
     <message>
         <source>Show differences</source>
-        <translation type="obsolete">Unterschiede anzeigen</translation>
+        <translation>Unterschiede anzeigen</translation>
     </message>
     <message>
         <source>Differences between versions %oldVersion and %newVersion</source>
-        <translation type="obsolete">Unterschiede zwischen den Versionen %oldVersion und %newVersion</translation>
+        <translation>Unterschiede zwischen den Versionen  %oldVersion und %newVersion</translation>
     </message>
     <message>
         <source>Old version</source>
-        <translation type="obsolete">Alte Version</translation>
+        <translation>Alte Version</translation>
     </message>
     <message>
         <source>Inline changes</source>
-        <translation type="obsolete">Teiländerungen</translation>
+        <translation>Teiländerungen</translation>
     </message>
     <message>
         <source>Block changes</source>
-        <translation type="obsolete">Blockänderungen</translation>
+        <translation>Blockänderungen</translation>
     </message>
     <message>
         <source>New version</source>
-        <translation type="obsolete">Neue Version</translation>
+        <translation>Neue Version</translation>
     </message>
 </context>
 <context>
@@ -498,7 +498,8 @@
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
       You can either edit the drafts or remove them if you don&apos;t need them any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dies sind die Objekte, an denen Sie gerade arbeiten. Die Entwürfe gehören Ihnen und sind nur für Sie sichtbar.
+      Sie können die Entwürfe bearbeiten oder entfernen, wenn Sie sie nicht mehr benötigen.</translation>
     </message>
     <message>
         <source>These are the current objects you are working on. The drafts are owned by you and can only be seen by you.
@@ -1161,7 +1162,7 @@
     </message>
     <message>
         <source>Document imported as</source>
-        <translation type="obsolete">Das Dokument ist importiert als</translation>
+        <translation>Das Dokument wurde importiert als</translation>
     </message>
     <message>
         <source>The images are placed in the media and can be re-used.</source>
@@ -2806,15 +2807,15 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="obsolete">Ihr Konto ist nun aktiviert.</translation>
+        <translation>Ihr Account ist nun aktiviert.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="obsolete">Entschuldigung, der übertragene Schlüssel war nicht gültig. Ihr Konto wurde nicht aktiviert.</translation>
+        <translation>Der übertragene Schlüssel war nicht gültig. Ihr Account wurde nicht aktiviert.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="obsolete">Ihr Konto ist bereits aktiv.</translation>
+        <translation>Ihr Konto ist bereits aktiviert.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3367,15 +3368,15 @@ Bilder werden in der Medienbibliothek abgelegt, damit Sie sie in anderen Artikel
     </message>
     <message>
         <source>Your account is now activated.</source>
-        <translation type="unfinished">Ihr Konto ist nun aktiviert.</translation>
+        <translation>Ihr Account ist nun aktiviert.</translation>
     </message>
     <message>
         <source>Your account is already active.</source>
-        <translation type="unfinished">Ihr Konto ist bereits aktiv.</translation>
+        <translation>Ihr Konto ist bereits aktiviert.</translation>
     </message>
     <message>
         <source>Sorry, the key submitted was not a valid key. Account was not activated.</source>
-        <translation type="unfinished">Entschuldigung, der übertragene Schlüssel war nicht gültig. Ihr Konto wurde nicht aktiviert.</translation>
+        <translation>Der übertragene Schlüssel war nicht gültig. Ihr Account wurde nicht aktiviert.</translation>
     </message>
 </context>
 <context>
