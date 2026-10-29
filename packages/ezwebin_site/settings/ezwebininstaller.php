@@ -99,7 +99,6 @@ class eZWebinInstaller extends eZSiteInstaller
             'bcwebsitestatistics', 
             'bccie', 
             'xrowextract', 
-            'bcwebshop', 
             'ezwebin', 
             'ezmultiupload' 
         ) );
