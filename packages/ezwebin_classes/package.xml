@@ -33,11 +33,15 @@
            release="1">
       <change>Creation of package.</change>
     </entry>
+    <entry timestamp="1793404800" person="7x" email="info@se7enx.com" release="1">
+      <change>Every content class carries the Meta Data attribute (metadata, xrowmetadata) in the category Meta, with the default license GPL-2.0-or-later and the Open Graph image chosen per object.</change>
+      <change>Title fields (title, name, headline, teaser title, short title and the like) have no maximum length; a longer title is not cut short.</change>
+    </entry>
   </changelog>
   <simple-files />
   <version>
     <number>5.3</number>
-    <release>0</release>
+    <release>1</release>
   </version>
   <licence>GPL</licence>
   <state>stable</state>
