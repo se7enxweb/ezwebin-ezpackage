@@ -17,7 +17,7 @@
     </maintainer>
   </maintainers>
   <packaging>
-    <timestamp>1793721223</timestamp>
+    <timestamp>1793727885</timestamp>
     <host>web.my.se7enx.com</host>
   </packaging>
   <documents>
@@ -25,45 +25,46 @@
     <document mime-type="text/markdown" name="CREDITS.md"/>
   </documents>
   <changelog>
-    <entry timestamp="1793721223" person="7x" email="partners@se7enx.com" release="15-stable">
+    <entry timestamp="1793727885" person="7x" email="partners@se7enx.com" release="15-stable">
       <change>New demo content for Exponential 6.0.15: modern copy and original CC0 illustrations.</change>
     </entry>
   </changelog>
   <simple-files>
-    <simple-file key="87275e8266ad08b84cca517d0153840d" original-path="var/ezwebin_site/storage/images/features/edit-right-on-the-page/edit-right-on-the-page/1917-11-eng-US/edit-right-on-the-page.jpg" package-path="simplefiles/710ea58c.jpg"/>
-    <simple-file key="9ef10eeba9b88dc3ed780a3abc020353" original-path="var/ezwebin_site/storage/images/features/velocity-an-application-server-built-for-speed/velocity-an-application-server-built-for-speed/1929-11-eng-US/velocity-an-application-server-built-for-speed.jpg" package-path="simplefiles/744d8977.jpg"/>
-    <simple-file key="5235aafb98a4ab7e22a79742f43966e9" original-path="var/ezwebin_site/storage/images/features/exponential-layouts/exponential-layouts/1941-11-eng-US/exponential-layouts.jpg" package-path="simplefiles/0e6e14c3.jpg"/>
-    <simple-file key="26e75b8d7844c45fc814f7dbdb0b0ede" original-path="var/ezwebin_site/storage/images/features/five-databases-one-content-model/five-databases-one-content-model/1953-11-eng-US/five-databases-one-content-model.jpg" package-path="simplefiles/a096a7d3.jpg"/>
-    <simple-file key="9a5343e57a656071e539b78286d6ce7a" original-path="var/ezwebin_site/storage/images/features/security-that-stays-out-of-the-way/security-that-stays-out-of-the-way/1965-11-eng-US/security-that-stays-out-of-the-way.jpg" package-path="simplefiles/cf863dc1.jpg"/>
-    <simple-file key="25816c1cc584577300d80410807ce6a3" original-path="var/ezwebin_site/storage/images/features/a-modern-interface-inside-and-out/a-modern-interface-inside-and-out/1977-11-eng-US/a-modern-interface-inside-and-out.jpg" package-path="simplefiles/3a9e66eb.jpg"/>
-    <simple-file key="62d12a182a4fe75b906fff896ac416b4" original-path="var/ezwebin_site/storage/images/features/multilingual-from-the-first-page/multilingual-from-the-first-page/1989-11-eng-US/multilingual-from-the-first-page.jpg" package-path="simplefiles/898dfd8d.jpg"/>
-    <simple-file key="4b84f1a2153abfe51996c796d9cfec01" original-path="var/ezwebin_site/storage/images/features/need-a-hand/1992-11-eng-US/need-a-hand.jpg" package-path="simplefiles/2ba39759.jpg"/>
-    <simple-file key="4622a35a657731964488d6c8181a245a" original-path="var/ezwebin_site/storage/images/solutions2/corporate-websites/corporate-websites/2015-11-eng-US/corporate-websites.jpg" package-path="simplefiles/f16c88c5.jpg"/>
-    <simple-file key="731cdc1fd404ac470402f5012d7381e4" original-path="var/ezwebin_site/storage/images/solutions2/publishing-and-media/publishing-and-media/2027-11-eng-US/publishing-and-media.jpg" package-path="simplefiles/b4483755.jpg"/>
-    <simple-file key="5faa0520692b17eb9cbc335253c8ce15" original-path="var/ezwebin_site/storage/images/solutions2/content-and-commerce/content-and-commerce/2039-11-eng-US/content-and-commerce.jpg" package-path="simplefiles/79818193.jpg"/>
-    <simple-file key="922876bad1c5c140c8db24a90c396755" original-path="var/ezwebin_site/storage/images/solutions2/intranets-and-extranets/intranets-and-extranets/2051-11-eng-US/intranets-and-extranets.jpg" package-path="simplefiles/62e28218.jpg"/>
-    <simple-file key="e7822c5ddfaa186746566fec6ef79d34" original-path="var/ezwebin_site/storage/images/solutions2/education/education/2063-11-eng-US/education.jpg" package-path="simplefiles/6276a8a7.jpg"/>
-    <simple-file key="9359d785ed15d7dfef508da212acfa2c" original-path="var/ezwebin_site/storage/images/solutions2/public-sector/public-sector/2075-11-eng-US/public-sector.jpg" package-path="simplefiles/c01b7e51.jpg"/>
-    <simple-file key="501e8b00fd0df003cacc7ece0894df61" original-path="var/ezwebin_site/storage/images/blog/exponential-6.0.15-is-here/exponential-6.0.15-is-here/2090-11-eng-US/exponential-6.0.15-is-here.jpg" package-path="simplefiles/973314fe.jpg"/>
-    <simple-file key="829a97e4ba69d34284f0eba03740d1c8" original-path="var/ezwebin_site/storage/images/blog/how-fast-is-velocity/how-fast-is-velocity/2101-11-eng-US/how-fast-is-velocity.jpg" package-path="simplefiles/52abf19f.jpg"/>
-    <simple-file key="604a3dd5c5a9f8a7c6c7f18038cce643" original-path="var/ezwebin_site/storage/images/blog/designs-for-everyone/designs-for-everyone/2112-11-eng-US/designs-for-everyone.jpg" package-path="simplefiles/642ae122.jpg"/>
-    <simple-file key="4fd5e1b9ff3e6f1bf5d826493db41613" original-path="var/ezwebin_site/storage/images/blog/moving-from-an-older-version/moving-from-an-older-version/2123-11-eng-US/moving-from-an-older-version.jpg" package-path="simplefiles/b288df7c.jpg"/>
-    <simple-file key="d95fe7bc3a90166d27ca4fe7ecf8b2e1" original-path="var/ezwebin_site/storage/images/blog/a-community-with-a-long-memory/a-community-with-a-long-memory/2134-11-eng-US/a-community-with-a-long-memory.jpg" package-path="simplefiles/4188e0d5.jpg"/>
-    <simple-file key="33d5c13b6cd7555eea6233000946d120" original-path="var/ezwebin_site/storage/images/gallery/aurora/2143-11-eng-US/aurora.jpg" package-path="simplefiles/b43eb16b.jpg"/>
-    <simple-file key="16f74da172beebf34aa79556187b4f31" original-path="var/ezwebin_site/storage/images/gallery/dunes/2147-11-eng-US/dunes.jpg" package-path="simplefiles/4b4d94ad.jpg"/>
-    <simple-file key="4ad62f861c28b9edc98fd04267dcc8fc" original-path="var/ezwebin_site/storage/images/gallery/lagoon/2151-11-eng-US/lagoon.jpg" package-path="simplefiles/da73646d.jpg"/>
-    <simple-file key="ca7e62e9155d16b7d4888d961964e448" original-path="var/ezwebin_site/storage/images/gallery/canopy/2155-11-eng-US/canopy.jpg" package-path="simplefiles/107f9eee.jpg"/>
-    <simple-file key="98376ee6aeadb0f335941061049a24aa" original-path="var/ezwebin_site/storage/images/gallery/nightfall/2159-11-eng-US/nightfall.jpg" package-path="simplefiles/28ef729d.jpg"/>
-    <simple-file key="207aeeb4836be96f851afcde5b324962" original-path="var/ezwebin_site/storage/images/gallery/bloom/2163-11-eng-US/bloom.jpg" package-path="simplefiles/a288205e.jpg"/>
-    <simple-file key="d0c9088d67289608d8c6485b895285b1" original-path="var/ezwebin_site/storage/images/gallery/ember/2167-11-eng-US/ember.jpg" package-path="simplefiles/8cf0c6f1.jpg"/>
-    <simple-file key="981faa2d97126bf439f52265a3496737" original-path="var/ezwebin_site/storage/images/gallery/tide/2171-11-eng-US/tide.jpg" package-path="simplefiles/0c8b5ae1.jpg"/>
-    <simple-file key="a33b4eea8ff3c4c6cc718be86077f487" original-path="var/ezwebin_site/storage/images/services/managed-hosting/2225-11-eng-US/managed-hosting.jpg" package-path="simplefiles/92857cd8.jpg"/>
-    <simple-file key="c9e7f1a53386fb8462e9e9cc93600078" original-path="var/ezwebin_site/storage/images/services/support-subscription/2235-11-eng-US/support-subscription.jpg" package-path="simplefiles/bbacf2e8.jpg"/>
-    <simple-file key="2f24bb0c372559a8a0df1f1e534f0745" original-path="var/ezwebin_site/storage/images/services/team-training/2245-11-eng-US/team-training.jpg" package-path="simplefiles/d8e0ac40.jpg"/>
-    <simple-file key="7462e40b0c6f569aa238a3198174ee4a" original-path="var/ezwebin_site/storage/images/about/the-exponential-foundation/the-exponential-foundation/2268-11-eng-US/the-exponential-foundation.jpg" package-path="simplefiles/ebe89044.jpg"/>
-    <simple-file key="5e760b50975993cc1b0a0c2e60a22113" original-path="var/ezwebin_site/storage/images/about/7x/7x/2280-11-eng-US/7x.jpg" package-path="simplefiles/bcbef8a8.jpg"/>
-    <simple-file key="08e6bde632de96f0b19aaccd78192425" original-path="var/ezwebin_site/storage/images/about/our-history/our-history/2292-11-eng-US/our-history.jpg" package-path="simplefiles/f61f17fc.jpg"/>
-    <simple-file key="44e59ca62aec96480505db952642f8de" original-path="var/ezwebin_site/storage/images/exponential-6.0.15-publish-faster-everywhere/2308-11-eng-US/exponential-6.0.15-publish-faster-everywhere.jpg" package-path="simplefiles/883ee418.jpg"/>
+    <simple-file key="80732458bba894155a3dd598e7789dea" original-path="var/ezwebin_site/storage/images/gallery/aurora/472-2-eng-US/aurora.jpg" package-path="simplefiles/6bd20da9.jpg"/>
+    <simple-file key="7402dab9c829971dbe1e6e6091f58f86" original-path="var/ezwebin_site/storage/images/gallery/dunes/475-2-eng-US/dunes.jpg" package-path="simplefiles/471eefc5.jpg"/>
+    <simple-file key="2da11b1a7b1d87092e23078502de6d37" original-path="var/ezwebin_site/storage/images/gallery/lagoon/478-2-eng-US/lagoon.jpg" package-path="simplefiles/347710f2.jpg"/>
+    <simple-file key="d9d28ea7c2929714fcf67fb7f1dac1ea" original-path="var/ezwebin_site/storage/images/gallery/canopy/481-2-eng-US/canopy.jpg" package-path="simplefiles/65246240.jpg"/>
+    <simple-file key="d775b89b555b3a657046bbd16d7cb0d2" original-path="var/ezwebin_site/storage/images/gallery/nightfall/484-2-eng-US/nightfall.jpg" package-path="simplefiles/ded1ab48.jpg"/>
+    <simple-file key="5a18840d9bd97721c5d908d6b442365f" original-path="var/ezwebin_site/storage/images/gallery/bloom/487-2-eng-US/bloom.jpg" package-path="simplefiles/957f3d91.jpg"/>
+    <simple-file key="a12e42132ae99fe0f0986d352c709259" original-path="var/ezwebin_site/storage/images/gallery/ember/490-2-eng-US/ember.jpg" package-path="simplefiles/4685a7da.jpg"/>
+    <simple-file key="88b19af49d97c2c736dedc5bca99f8fa" original-path="var/ezwebin_site/storage/images/gallery/tide/493-2-eng-US/tide.jpg" package-path="simplefiles/c2c2deab.jpg"/>
+    <simple-file key="47def9b802f9eef1012b2e1ff9d2e043" original-path="var/ezwebin_site/storage/images/services/managed-hosting/545-2-eng-US/managed-hosting.jpg" package-path="simplefiles/5f748e3e.jpg"/>
+    <simple-file key="3e0d077118e21c6a3fb93b345abe06cf" original-path="var/ezwebin_site/storage/images/services/support-subscription/555-2-eng-US/support-subscription.jpg" package-path="simplefiles/b07548c7.jpg"/>
+    <simple-file key="ac32087d81a81cde7cb9164b19827542" original-path="var/ezwebin_site/storage/images/services/team-training/565-2-eng-US/team-training.jpg" package-path="simplefiles/937a3e96.jpg"/>
+    <simple-file key="6e29daeaecdb46d5afbc649cc7577d25" original-path="var/ezwebin_site/storage/images/about/the-exponential-foundation/the-exponential-foundation/586-2-eng-US/the-exponential-foundation.jpg" package-path="simplefiles/30e8de95.jpg"/>
+    <simple-file key="8cee566e93f965626aca636eaa2ab1ba" original-path="var/ezwebin_site/storage/images/about/7x/7x/596-2-eng-US/7x.jpg" package-path="simplefiles/efabfd81.jpg"/>
+    <simple-file key="f03b4853dbaf714fb9fb17cfb6a88b35" original-path="var/ezwebin_site/storage/images/about/our-history/our-history/606-2-eng-US/our-history.jpg" package-path="simplefiles/b1bad3fe.jpg"/>
+    <simple-file key="9ba741e0c7c17a7c62af0f90047b792e" original-path="var/ezwebin_site/storage/images/exponential-6.0.15-publish-faster-everywhere/620-2-eng-US/exponential-6.0.15-publish-faster-everywhere.jpg" package-path="simplefiles/82b442fa.jpg"/>
+    <simple-file key="e7de5e3d999960b0dd4f561932c91cc1" original-path="var/ezwebin_site/storage/images/partners/release-preview-for-partners/release-preview-for-partners/654-1-eng-US/release-preview-for-partners.jpg" package-path="simplefiles/5f590d06.jpg"/>
+    <simple-file key="e75b36768db4fc55a2b8e3e05220ceb7" original-path="var/ezwebin_site/storage/images/features/edit-right-on-the-page/edit-right-on-the-page/277-2-eng-US/edit-right-on-the-page.jpg" package-path="simplefiles/9b39bc66.jpg"/>
+    <simple-file key="7b470d7ad6ef7c652c9b7fe686f54ab8" original-path="var/ezwebin_site/storage/images/features/velocity-an-application-server-built-for-speed/velocity-an-application-server-built-for-speed/287-2-eng-US/velocity-an-application-server-built-for-speed.jpg" package-path="simplefiles/863d7b0e.jpg"/>
+    <simple-file key="9c710deb38066c69b78bf97a1110e793" original-path="var/ezwebin_site/storage/images/features/exponential-layouts/exponential-layouts/297-2-eng-US/exponential-layouts.jpg" package-path="simplefiles/69abb2f9.jpg"/>
+    <simple-file key="1820a87e9f6b84d142f796d197e4684f" original-path="var/ezwebin_site/storage/images/features/five-databases-one-content-model/five-databases-one-content-model/307-2-eng-US/five-databases-one-content-model.jpg" package-path="simplefiles/77b8fec4.jpg"/>
+    <simple-file key="7a8be502bf46fc3efe4eae0684bce634" original-path="var/ezwebin_site/storage/images/features/security-that-stays-out-of-the-way/security-that-stays-out-of-the-way/317-2-eng-US/security-that-stays-out-of-the-way.jpg" package-path="simplefiles/4e376396.jpg"/>
+    <simple-file key="8db402128910f8e70c3131cf75232e5e" original-path="var/ezwebin_site/storage/images/features/a-modern-interface-inside-and-out/a-modern-interface-inside-and-out/327-2-eng-US/a-modern-interface-inside-and-out.jpg" package-path="simplefiles/dfa8ec33.jpg"/>
+    <simple-file key="a8787661b6e3249935dfb2e2f81eb53a" original-path="var/ezwebin_site/storage/images/features/multilingual-from-the-first-page/multilingual-from-the-first-page/337-2-eng-US/multilingual-from-the-first-page.jpg" package-path="simplefiles/a6d38f6b.jpg"/>
+    <simple-file key="5684143bec838785155d3af4528d642f" original-path="var/ezwebin_site/storage/images/features/need-a-hand/339-2-eng-US/need-a-hand.jpg" package-path="simplefiles/7e3eb96f.jpg"/>
+    <simple-file key="fe63490e40c4827db01aa928368e26b6" original-path="var/ezwebin_site/storage/images/solutions/corporate-websites/corporate-websites/360-2-eng-US/corporate-websites.jpg" package-path="simplefiles/39406046.jpg"/>
+    <simple-file key="43cc487c24e127927f3dab995efc9fb2" original-path="var/ezwebin_site/storage/images/solutions/publishing-and-media/publishing-and-media/370-2-eng-US/publishing-and-media.jpg" package-path="simplefiles/d6631cf4.jpg"/>
+    <simple-file key="9765063ce50ff008e8fe130d9a0909b2" original-path="var/ezwebin_site/storage/images/solutions/content-and-commerce/content-and-commerce/380-2-eng-US/content-and-commerce.jpg" package-path="simplefiles/77674101.jpg"/>
+    <simple-file key="4bd97701ff2cfcfa68a5784ec9dd0dd2" original-path="var/ezwebin_site/storage/images/solutions/intranets-and-extranets/intranets-and-extranets/390-2-eng-US/intranets-and-extranets.jpg" package-path="simplefiles/bbc71978.jpg"/>
+    <simple-file key="331ab1312a7dcc7d40676b55580e6b82" original-path="var/ezwebin_site/storage/images/solutions/education/education/400-2-eng-US/education.jpg" package-path="simplefiles/ce2bb2de.jpg"/>
+    <simple-file key="7d9fd90ee6c9f74c6323bc2fca4984e0" original-path="var/ezwebin_site/storage/images/solutions/public-sector/public-sector/410-2-eng-US/public-sector.jpg" package-path="simplefiles/085e06a3.jpg"/>
+    <simple-file key="cd689ca4caf1b668b2441fa84a8b9a97" original-path="var/ezwebin_site/storage/images/blog/how-fast-is-velocity/how-fast-is-velocity/434-2-eng-US/how-fast-is-velocity.jpg" package-path="simplefiles/eb11382a.jpg"/>
+    <simple-file key="3f292ff650e03206d362a219bb19b919" original-path="var/ezwebin_site/storage/images/blog/designs-for-everyone/designs-for-everyone/444-2-eng-US/designs-for-everyone.jpg" package-path="simplefiles/9eeea65e.jpg"/>
+    <simple-file key="f2cbcbb7d6efaf2560f14a685ce0f17d" original-path="var/ezwebin_site/storage/images/blog/moving-from-an-older-version/moving-from-an-older-version/454-2-eng-US/moving-from-an-older-version.jpg" package-path="simplefiles/798760a7.jpg"/>
+    <simple-file key="e774ca3b145f6a6848f1af28e33eb390" original-path="var/ezwebin_site/storage/images/blog/a-community-with-a-long-memory/a-community-with-a-long-memory/464-2-eng-US/a-community-with-a-long-memory.jpg" package-path="simplefiles/f5ebdb60.jpg"/>
+    <simple-file key="6a80a8ba2343be2317588329fc2cb925" original-path="var/ezwebin_site/storage/images/blog/exponential-6.0.15-is-here/exponential-6.0.15-is-here/424-2-eng-US/exponential-6.0.15-is-here.jpg" package-path="simplefiles/49b75e22.jpg"/>
   </simple-files>
   <version>
     <number>6.0</number>

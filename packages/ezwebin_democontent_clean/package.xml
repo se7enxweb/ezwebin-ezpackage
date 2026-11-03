@@ -3,9 +3,9 @@
          development="false"
          install_type="install">
   <name>ezwebin_democontent_clean</name>
-  <summary></summary>
+  <summary>Exponential website interface, clean install: the front page only</summary>
   <description></description>
-  <vendor>eZ systems</vendor>
+  <vendor>Exponential Foundation and 7x</vendor>
   <type value="contentobject" />
   <ezpublish>
     <version>5.3.0</version>
@@ -13,14 +13,14 @@
   </ezpublish>
   <maintainers>
     <maintainer>
-      <name>Administrator User</name>
-      <email>nospam@ez.no</email>
+      <name>7x</name>
+      <email>partners@se7enx.com</email>
       <role>lead</role>
     </maintainer>
   </maintainers>
   <packaging>
     <timestamp>1163689610</timestamp>
-    <host>packages.ez.no</host>
+    <host>packages.exponential.earth</host>
   </packaging>
   <documents>
     <document mime-type="text/plain"
@@ -29,7 +29,7 @@
   <changelog>
     <entry timestamp="1163689610"
            person="Administrator User"
-           email="nospam@ez.no"
+           email="partners@se7enx.com"
            release="1">
       <change>Creation of package.</change>
     </entry>

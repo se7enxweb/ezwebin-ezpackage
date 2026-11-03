@@ -1282,11 +1282,12 @@ class eZWebinInstaller extends eZSiteInstaller
                     'title' => 'My RSS Feed', 
                     'rss_export_itmes' => array( 
                         0 => array( 
-                            'class_id' => '16', 
-                            'description' => 'intro', 
-                            'source_node_id' => '139', 
-                            'status' => '1', 
-                            'title' => 'title' 
+                            'class_id' => array( '_function' => 'classIDbyIdentifier', '_params' => array( 'identifier' => 'blog_post' ) ),
+                            'description' => 'body',
+                            // the demo content's blog (its remote id), not a fixed node id
+                            'source_node_id' => array( '_function' => 'nodeIdByName', '_params' => array( 'name' => 'Blog', 'remote_id' => 'ezwebin-dc-blog' ) ),
+                            'status' => '1',
+                            'title' => 'title'
                         ) 
                     ) 
                 ) 

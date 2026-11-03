@@ -37,79 +37,10 @@
                                      xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/"
                                      xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
                                 <section>
-                                    <header>Welcome to your new eZ Publish installation</header>
-                                    <paragraph align="LEFT">You chose the Website Interface package with a clean install
-                                        and no evaluation data, this installation is empty of content.
-                                    </paragraph>
-                                    <paragraph align="LEFT">This page is the home page of your website, you can access
-                                        the administration interface of your website by selecting the appropriate check
-                                        box on the<link href="/user/login">login page</link>. You will need to use the
-                                        "admin" username and the password you defined when installing eZ Publish.
-                                    </paragraph>
-                                    <paragraph align="LEFT">If you want to use the eZ toolbar for front end editing,
-                                        please
-                                        <link href="/user/login">login</link>
-                                        to the website with the same administrator account or with any account you might
-                                        have setup with sufficient rights.
-                                    </paragraph>
-                                    <paragraph align="LEFT">If you want to get started easily and run your website
-                                        project, the usual next steps for you might be:
-                                    </paragraph>
-                                    <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                                        <ol>
-                                            <li>
-                                                <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                                                    <strong>Configure users and permissions</strong>
-                                                    using the administration interface, to grant access and rights to
-                                                    all the team involved in the making of your website. See<link
-                                                        href="http://ez.no/doc/ez_publish/user_manual/4_0/the_administration_interface/the_user_accounts_tab">
-                                                    user manual</link>.
-                                                </paragraph>
-                                            </li>
-                                            <li>
-                                                <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                                                    <strong>Customize the layout styles and templates</strong>
-                                                    of your website in order to match your branding requirements. See
-                                                    <link href="http://ez.no/doc/ez_publish/technical_manual/4_x/templates">
-                                                        the documentation</link>.
-                                                </paragraph>
-                                            </li>
-                                            <li>
-                                                <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                                                    <strong>Add additional new features</strong>
-                                                    leveraging existing extensions in the ecosystem. See<link
-                                                        href="http://ez.no/doc/ez_publish/technical_manual/4_x/installation/extensions">
-                                                    the documentation</link>.
-                                                </paragraph>
-                                            </li>
-                                            <li>
-                                                <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                                                    <strong>Start publishing content</strong>
-                                                    in the repository and
-                                                    <strong>launch your website.</strong>
-                                                    See<link
-                                                        href="http://ez.no/doc/ez_publish/user_manual/4_0/daily_tasks">
-                                                    the documentation</link>.
-                                                </paragraph>
-                                            </li>
-                                        </ol>
-                                    </paragraph>
-                                    <paragraph align="LEFT">For more information, please visit our<link
-                                            href="http://ez.no/doc">documentation</link>. You might also consider
-                                        exchanging with our community via our
-                                        <link href="http://ez.no/developer/forum">forums</link>
-                                        or browsing existing extensions in the<link href="http://projects.ez.no/">
-                                            community contribution corner</link>.
-                                    </paragraph>
-                                    <paragraph align="LEFT">If you are running a business project, you should consider
-                                        help from eZ Systems professional services such as<link
-                                                href="http://ez.no/support_and_services/training">training</link>,
-                                        <link href="http://ez.no/support_and_services/expert_consulting">consulting
-                                        </link>
-                                        or
-                                        <link href="http://ez.no/support_and_services/ez_publish_premium">Premium</link>
-                                        support and maintenance.
-                                    </paragraph>
+                                    <header>Welcome to your new Exponential website</header>
+                                    <paragraph>You chose the website interface with a clean install: the site has its design, its menus and this front page, and no demo content, so it is ready for yours.</paragraph>
+                                    <paragraph>To add content, <link href="/user/login">sign in</link> with the "admin" user and the password you chose during the installation. Editors can edit right on the page with the website sidebar, or use the administration interface for the structure of the site.</paragraph>
+                                    <paragraph>Exponential 6.0.15 brings front-end editing, the Velocity application server, Exponential Layouts and support for five databases. Read the documentation at <link href="https://doc.exponential.earth">doc.exponential.earth</link>, find the source code on <link href="https://github.com/se7enxweb/exponential">GitHub</link>, and ask <link href="https://se7enx.com">7x</link> for hosting, support and training.</paragraph>
                                     <paragraph align="center">
                                         <embed size="medium" view="embed-inline" align="right" custom:offset="0"
                                                custom:limit="5" object_remote_id="82005c9dbc259a187e1f4784fcd699f8"/>
@@ -143,7 +74,7 @@
             </ezobject:version-list>
         </ezremote:object>
         <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="59"
-                         name="original_outlined_ez_logo-mini" ezremote:section_id="3" ezremote:owner_id="14"
+                         name="Exponential logo" ezremote:section_id="3" ezremote:owner_id="14"
                          ezremote:class_id="30" ezremote:published="Mon, 21 Sep 2009 10:04:37 GMT"
                          ezremote:modified="Mon, 21 Sep 2009 10:04:37 GMT" remote_id="82005c9dbc259a187e1f4784fcd699f8"
                          class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image"
@@ -152,10 +83,10 @@
                 <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="1" ezremote:status="1"
                                   ezremote:created="Mon, 21 Sep 2009 10:04:36 GMT"
                                   ezremote:modified="Mon, 21 Sep 2009 10:04:36 GMT" initial_language="eng-GB">
-                    <ezobject:object-translation language="eng-GB" object_name="original_outlined_ez_logo-mini">
+                    <ezobject:object-translation language="eng-GB" object_name="Exponential logo">
                         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="222"
                                             ezremote:identifier="name" name="Name" type="ezstring">
-                            <text>eZ Logo</text>
+                            <text>Exponential logo</text>
                         </ezobject:attribute>
                         <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="223"
                                             ezremote:identifier="caption" name="Caption" type="ezxmltext">
@@ -173,7 +104,7 @@
                     </ezobject:object-translation>
                     <ezobject:node-assignment-list>
                         <node-assignment parent-node-remote-id="1b26c0454b09bb49dfb1b9190ffd67cb" is-main-node="1"
-                                         name="original_outlined_ez_logo-mini" node-id="61"
+                                         name="Exponential logo" node-id="61"
                                          remote-id="6d2d1b22aa7d049f64d0552a70fe8b02" sort-field="published"
                                          sort-order="0" priority="0"/>
                     </ezobject:node-assignment-list>
