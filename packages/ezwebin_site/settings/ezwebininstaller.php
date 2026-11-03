@@ -1598,7 +1598,7 @@ class eZWebinInstaller extends eZSiteInstaller
                 "DataText" => "Site settings" 
             ), 
             "footer_text" => array( 
-                "DataText" => "Copyright &#169; " . date( 'Y' ) . " <a href=\"http://ez.no\" title=\"eZ Systems\">eZ Systems AS</a> (except where otherwise noted). All rights reserved." 
+                "DataText" => "Copyright &#169; " . date( 'Y' ) . " the Exponential Foundation and <a href=\"https://se7enx.com\">7x</a>. Exponential is free software, licensed under the GNU GPL v2 or later." 
             ), 
             "hide_powered_by" => array( 
                 "DataInt" => 0 
