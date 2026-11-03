@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content-object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
   <object-list xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/">
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="65" name="Home" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="22" ezremote:published="Thu, 01 Nov 2007 08:33:32 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="8a9c9c761004866fb458d89910f52bee" class_remote_id="e36c458e3e4a81298a0945f53a2c81f4" ezremote:class_identifier="frontpage" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" active_version="11">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:id="65" name="Home" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="22" ezremote:published="Thu, 01 Nov 2007 08:33:32 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="8a9c9c761004866fb458d89910f52bee" class_remote_id="e36c458e3e4a81298a0945f53a2c81f4" ezremote:class_identifier="frontpage" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" active_version="12">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" ezremote:version="12" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/" language="eng-US" object_name="Home">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2384" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Home</text>
@@ -51,7 +51,7 @@
                           </li>
                           <li>
                             <paragraph xmlns:tmp="http://ez.no/namespaces/ezpublish3/temporary/">
-                              <link href="https://exponential.earth">Read the documentation</link>
+                              <link href="https://doc.exponential.earth">Read the documentation</link>
                             </paragraph>
                           </li>
                           <li>
@@ -106,9 +106,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="279" name="Features" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" remote_id="ezwebin-dc-features" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:02 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="279" name="Features" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-features" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Features">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1899" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Features</text>
@@ -165,9 +165,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="280" name="Edit right on the page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" remote_id="ezwebin-dc-article-frontend-editing" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:02 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="280" name="Edit right on the page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-article-frontend-editing" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Edit right on the page">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1907" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Edit right on the page</text>
@@ -250,15 +250,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="281" name="Edit right on the page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" remote_id="ezwebin-dc-image-article-frontend-editing" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:02 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="281" name="Edit right on the page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-image-article-frontend-editing" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Edit right on the page">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1915" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Edit right on the page</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1916" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1917" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="805d1a0d19b29134cf3ca271fefa220f" alternative-text="Illustration of a page being edited in place"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1917" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="87275e8266ad08b84cca517d0153840d" alternative-text="Illustration of a page being edited in place"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1918" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Edit right on the page</title>
@@ -287,9 +287,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="282" name="Velocity: an application server built for speed" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-velocity" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:02 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="282" name="Velocity: an application server built for speed" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-article-velocity" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Velocity: an application server built for speed">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1919" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Velocity: an application server built for speed</text>
@@ -372,15 +372,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="283" name="Velocity: an application server built for speed" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" remote_id="ezwebin-dc-image-article-velocity" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:02 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:02 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="283" name="Velocity: an application server built for speed" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-image-article-velocity" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Velocity: an application server built for speed">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1927" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Velocity: an application server built for speed</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1928" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1929" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="1559416a898bc4c46ee9db4f6504bf3a" alternative-text="Illustration of a lightning bolt on glass panels"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1929" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="9ef10eeba9b88dc3ed780a3abc020353" alternative-text="Illustration of a lightning bolt on glass panels"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1930" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Velocity: an application server built for speed</title>
@@ -409,9 +409,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="284" name="Exponential Layouts" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-layouts" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="284" name="Exponential Layouts" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-article-layouts" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Exponential Layouts">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1931" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Exponential Layouts</text>
@@ -490,15 +490,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="285" name="Exponential Layouts" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-layouts" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="285" name="Exponential Layouts" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" remote_id="ezwebin-dc-image-article-layouts" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:39 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:39 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Exponential Layouts">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1939" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Exponential Layouts</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1940" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1941" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="62acf8925cae330938279ad94c3045d3" alternative-text="Illustration of a page layout grid"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1941" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="5235aafb98a4ab7e22a79742f43966e9" alternative-text="Illustration of a page layout grid"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1942" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Exponential Layouts</title>
@@ -527,9 +527,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="286" name="Five databases, one content model" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-databases" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="286" name="Five databases, one content model" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-databases" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Five databases, one content model">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1943" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Five databases, one content model</text>
@@ -593,15 +593,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="287" name="Five databases, one content model" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-databases" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="287" name="Five databases, one content model" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:13 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-databases" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Five databases, one content model">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1951" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Five databases, one content model</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1952" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1953" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="edfe60c1d1e58304293a0f2c1a5c6973" alternative-text="Illustration of a database cylinder"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1953" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="26e75b8d7844c45fc814f7dbdb0b0ede" alternative-text="Illustration of a database cylinder"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1954" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Five databases, one content model</title>
@@ -630,9 +630,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="288" name="Security that stays out of the way" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-security" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="288" name="Security that stays out of the way" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-security" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Security that stays out of the way">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1955" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Security that stays out of the way</text>
@@ -711,15 +711,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="289" name="Security that stays out of the way" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-security" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="289" name="Security that stays out of the way" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-security" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Security that stays out of the way">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1963" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Security that stays out of the way</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1964" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1965" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="aada70072c99868c7d0ac3ce5cec0844" alternative-text="Illustration of a shield with a check mark"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1965" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="9a5343e57a656071e539b78286d6ce7a" alternative-text="Illustration of a shield with a check mark"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1966" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Security that stays out of the way</title>
@@ -748,9 +748,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="290" name="A modern interface, inside and out" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-modern-ui" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="290" name="A modern interface, inside and out" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-modern-ui" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="A modern interface, inside and out">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1967" ezremote:identifier="title" name="Title" type="ezstring">
               <text>A modern interface, inside and out</text>
@@ -814,15 +814,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="291" name="A modern interface, inside and out" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-modern-ui" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="291" name="A modern interface, inside and out" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-modern-ui" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="A modern interface, inside and out">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1975" ezremote:identifier="name" name="Name" type="ezstring">
               <text>A modern interface, inside and out</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1976" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1977" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="3b2b29c0c3e685d037335d0a1368d8a4" alternative-text="Illustration of code brackets on glass panels"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1977" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="25816c1cc584577300d80410807ce6a3" alternative-text="Illustration of code brackets on glass panels"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1978" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>A modern interface, inside and out</title>
@@ -851,9 +851,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="292" name="Multilingual from the first page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-languages" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="292" name="Multilingual from the first page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-languages" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Multilingual from the first page">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1979" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Multilingual from the first page</text>
@@ -916,15 +916,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="293" name="Multilingual from the first page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-languages" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="293" name="Multilingual from the first page" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-languages" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Multilingual from the first page">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1987" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Multilingual from the first page</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1988" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1989" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="436e6832f8c9e96bebbf42144edcff36" alternative-text="Illustration of a globe"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1989" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="62d12a182a4fe75b906fff896ac416b4" alternative-text="Illustration of a globe"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1990" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Multilingual from the first page</title>
@@ -953,14 +953,14 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="294" name="Need a hand?" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="24" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-infobox-help" class_remote_id="0b4e8accad5bec5ba2d430acb25c1ff6" ezremote:class_identifier="infobox" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="294" name="Need a hand?" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="24" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-infobox-help" class_remote_id="0b4e8accad5bec5ba2d430acb25c1ff6" ezremote:class_identifier="infobox" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Need a hand?">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1991" ezremote:identifier="header" name="Header" type="ezstring">
               <text>Need a hand?</text>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1992" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="db351e056eb0365c78cbde99babbf043" alternative-text="Illustration of a speech bubble"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1992" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="4b84f1a2153abfe51996c796d9cfec01" alternative-text="Illustration of a speech bubble"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1993" ezremote:identifier="image_url" name="URL (image)" type="ezstring">
               <text></text>
             </ezobject:attribute>
@@ -1003,9 +1003,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="295" name="Solutions" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-solutions" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="295" name="Solutions" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-solutions" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Solutions">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="1997" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Solutions</text>
@@ -1062,9 +1062,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="296" name="Corporate websites" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-solution-corporate" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="296" name="Corporate websites" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-solution-corporate" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Corporate websites">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2005" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Corporate websites</text>
@@ -1127,15 +1127,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="297" name="Corporate websites" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-solution-corporate" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="297" name="Corporate websites" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-solution-corporate" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Corporate websites">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2013" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Corporate websites</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2014" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2015" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="7aa9d58541be2435bc58d27a3903f4e9" alternative-text="Illustration of an office building"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2015" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="4622a35a657731964488d6c8181a245a" alternative-text="Illustration of an office building"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2016" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Corporate websites</title>
@@ -1164,9 +1164,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="298" name="Publishing and media" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-article-solution-media" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="298" name="Publishing and media" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-solution-media" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Publishing and media">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2017" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Publishing and media</text>
@@ -1229,15 +1229,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="299" name="Publishing and media" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-solution-media" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="299" name="Publishing and media" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-solution-media" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Publishing and media">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2025" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Publishing and media</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2026" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2027" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="0c8c07378a16e1425c53572af61ea60e" alternative-text="Illustration of a newspaper"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2027" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="731cdc1fd404ac470402f5012d7381e4" alternative-text="Illustration of a newspaper"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2028" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Publishing and media</title>
@@ -1266,9 +1266,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="300" name="Content and commerce" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-article-solution-commerce" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="300" name="Content and commerce" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-solution-commerce" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Content and commerce">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2029" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Content and commerce</text>
@@ -1331,15 +1331,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="301" name="Content and commerce" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" remote_id="ezwebin-dc-image-article-solution-commerce" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:03 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:03 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="301" name="Content and commerce" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-solution-commerce" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Content and commerce">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2037" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Content and commerce</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2038" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2039" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="9067c7dbb6af07f11fb224232f44243b" alternative-text="Illustration of a shopping cart"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2039" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="5faa0520692b17eb9cbc335253c8ce15" alternative-text="Illustration of a shopping cart"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2040" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Content and commerce</title>
@@ -1368,9 +1368,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="302" name="Intranets and extranets" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-article-solution-intranet" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="302" name="Intranets and extranets" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-solution-intranet" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Intranets and extranets">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2041" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Intranets and extranets</text>
@@ -1433,15 +1433,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="303" name="Intranets and extranets" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-article-solution-intranet" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="303" name="Intranets and extranets" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-solution-intranet" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Intranets and extranets">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2049" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Intranets and extranets</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2050" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2051" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="33c0eb033ec0e65d1daf87cab496d7e5" alternative-text="Illustration of a group of people"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2051" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="922876bad1c5c140c8db24a90c396755" alternative-text="Illustration of a group of people"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2052" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Intranets and extranets</title>
@@ -1470,9 +1470,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="304" name="Education" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-article-solution-education" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="304" name="Education" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-article-solution-education" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Education">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2053" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Education</text>
@@ -1535,15 +1535,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="305" name="Education" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-article-solution-education" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="305" name="Education" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:14 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" remote_id="ezwebin-dc-image-article-solution-education" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:40 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:40 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Education">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2061" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Education</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2062" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2063" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="c052f7cd6890f4ade60a56b22919acd9" alternative-text="Illustration of a graduation cap"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2063" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="e7822c5ddfaa186746566fec6ef79d34" alternative-text="Illustration of a graduation cap"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2064" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Education</title>
@@ -1572,9 +1572,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="306" name="Public sector" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-article-solution-public-sector" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="306" name="Public sector" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-article-solution-public-sector" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Public sector">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2065" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Public sector</text>
@@ -1637,15 +1637,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="307" name="Public sector" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-article-solution-public-sector" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="307" name="Public sector" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-article-solution-public-sector" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Public sector">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2073" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Public sector</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2074" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2075" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="37a997a8a095f4017f109fcb9004f001" alternative-text="Illustration of a globe"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2075" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="9359d785ed15d7dfef508da212acfa2c" alternative-text="Illustration of a globe"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2076" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Public sector</title>
@@ -1674,9 +1674,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="308" name="Blog" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="18" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-blog" class_remote_id="3a6f9c1f075b3bf49d7345576b196fe8" ezremote:class_identifier="blog" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="308" name="Blog" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="18" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-blog" class_remote_id="3a6f9c1f075b3bf49d7345576b196fe8" ezremote:class_identifier="blog" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Blog">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2077" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Blog</text>
@@ -1719,9 +1719,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="309" name="Exponential 6.0.15 is here" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-post-release-6015" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="309" name="Exponential 6.0.15 is here" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-post-release-6015" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Exponential 6.0.15 is here">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2081" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Exponential 6.0.15 is here</text>
@@ -1775,15 +1775,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="310" name="Exponential 6.0.15 is here" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-post-release-6015" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="310" name="Exponential 6.0.15 is here" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-post-release-6015" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Exponential 6.0.15 is here">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2088" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Exponential 6.0.15 is here</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2089" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2090" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="b1eafa954d0d951b27c913facc769cfc" alternative-text="Illustration for Exponential 6.0.15 is here"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2090" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="501e8b00fd0df003cacc7ece0894df61" alternative-text="Illustration for Exponential 6.0.15 is here"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2091" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Exponential 6.0.15 is here</title>
@@ -1812,9 +1812,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="311" name="How fast is Velocity?" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-post-velocity-benchmarks" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="311" name="How fast is Velocity?" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-post-velocity-benchmarks" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="How fast is Velocity?">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2092" ezremote:identifier="title" name="Title" type="ezstring">
               <text>How fast is Velocity?</text>
@@ -1867,15 +1867,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="312" name="How fast is Velocity?" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-post-velocity-benchmarks" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="312" name="How fast is Velocity?" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-post-velocity-benchmarks" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="How fast is Velocity?">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2099" ezremote:identifier="name" name="Name" type="ezstring">
               <text>How fast is Velocity?</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2100" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2101" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="a17ff8f0f08f3085db7ada788cfa8d55" alternative-text="Illustration for How fast is Velocity?"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2101" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="829a97e4ba69d34284f0eba03740d1c8" alternative-text="Illustration for How fast is Velocity?"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2102" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>How fast is Velocity?</title>
@@ -1904,9 +1904,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="313" name="Designs for everyone" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-post-accessibility" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="313" name="Designs for everyone" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-post-accessibility" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Designs for everyone">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2103" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Designs for everyone</text>
@@ -1959,15 +1959,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="314" name="Designs for everyone" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-post-accessibility" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="314" name="Designs for everyone" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-post-accessibility" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Designs for everyone">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2110" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Designs for everyone</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2111" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2112" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="2e4cc011fe2a392ab66dd6358e7c4c67" alternative-text="Illustration for Designs for everyone"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2112" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="604a3dd5c5a9f8a7c6c7f18038cce643" alternative-text="Illustration for Designs for everyone"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2113" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Designs for everyone</title>
@@ -1996,9 +1996,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="315" name="Moving from an older version" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-post-migration" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="315" name="Moving from an older version" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-post-migration" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Moving from an older version">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2114" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Moving from an older version</text>
@@ -2051,15 +2051,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="316" name="Moving from an older version" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-post-migration" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="316" name="Moving from an older version" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-post-migration" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Moving from an older version">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2121" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Moving from an older version</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2122" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2123" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="84401c97af2dd1cd955e618dc2d33829" alternative-text="Illustration for Moving from an older version"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2123" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="4fd5e1b9ff3e6f1bf5d826493db41613" alternative-text="Illustration for Moving from an older version"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2124" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Moving from an older version</title>
@@ -2088,9 +2088,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="317" name="A community with a long memory" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-post-community" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="317" name="A community with a long memory" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="19" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-post-community" class_remote_id="7ecb961056b7cbb30f22a91357e0a007" ezremote:class_identifier="blog_post" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="A community with a long memory">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2125" ezremote:identifier="title" name="Title" type="ezstring">
               <text>A community with a long memory</text>
@@ -2143,15 +2143,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="318" name="A community with a long memory" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" remote_id="ezwebin-dc-image-post-community" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:04 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:04 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="318" name="A community with a long memory" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-post-community" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="A community with a long memory">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2132" ezremote:identifier="name" name="Name" type="ezstring">
               <text>A community with a long memory</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2133" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2134" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="64b8d26523631d208de5b06118496c0c" alternative-text="Illustration for A community with a long memory"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2134" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="d95fe7bc3a90166d27ca4fe7ecf8b2e1" alternative-text="Illustration for A community with a long memory"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2135" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>A community with a long memory</title>
@@ -2180,9 +2180,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="319" name="Gallery" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-gallery" class_remote_id="6a320cdc3e274841b82fcd63a86f80d1" ezremote:class_identifier="gallery" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="319" name="Gallery" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="31" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-gallery" class_remote_id="6a320cdc3e274841b82fcd63a86f80d1" ezremote:class_identifier="gallery" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Gallery">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2136" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Gallery</text>
@@ -2232,9 +2232,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="320" name="Aurora" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-aurora" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="320" name="Aurora" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-aurora" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Aurora">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2141" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Aurora</text>
@@ -2246,7 +2246,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2143" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="bd3b3fcdd70680d330b7fdc62641a3f5" alternative-text="Aurora, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2143" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="33d5c13b6cd7555eea6233000946d120" alternative-text="Aurora, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2144" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Aurora</title>
@@ -2275,9 +2275,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="321" name="Dunes" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-dunes" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="321" name="Dunes" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-dunes" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Dunes">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2145" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Dunes</text>
@@ -2289,7 +2289,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2147" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="feac960d5d9a8e91747f4626a090518a" alternative-text="Dunes, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2147" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="16f74da172beebf34aa79556187b4f31" alternative-text="Dunes, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2148" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Dunes</title>
@@ -2318,9 +2318,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="322" name="Lagoon" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-lagoon" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="322" name="Lagoon" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-lagoon" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Lagoon">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2149" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Lagoon</text>
@@ -2332,7 +2332,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2151" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="9ec7ff20fc4ba7c404c8d362e4c79272" alternative-text="Lagoon, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2151" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="4ad62f861c28b9edc98fd04267dcc8fc" alternative-text="Lagoon, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2152" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Lagoon</title>
@@ -2361,9 +2361,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="323" name="Canopy" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-canopy" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="323" name="Canopy" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-canopy" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Canopy">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2153" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Canopy</text>
@@ -2375,7 +2375,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2155" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="353999fa8b99f9f612ac5bf501673592" alternative-text="Canopy, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2155" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="ca7e62e9155d16b7d4888d961964e448" alternative-text="Canopy, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2156" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Canopy</title>
@@ -2404,9 +2404,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="324" name="Nightfall" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-nightfall" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="324" name="Nightfall" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-nightfall" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Nightfall">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2157" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Nightfall</text>
@@ -2418,7 +2418,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2159" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="e469169b845cf138e9b4637f45f899c7" alternative-text="Nightfall, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2159" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="98376ee6aeadb0f335941061049a24aa" alternative-text="Nightfall, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2160" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Nightfall</title>
@@ -2447,9 +2447,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="325" name="Bloom" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-bloom" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="325" name="Bloom" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-bloom" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Bloom">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2161" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Bloom</text>
@@ -2461,7 +2461,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2163" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="128447c9ca928d236ba43e610035943a" alternative-text="Bloom, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2163" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="207aeeb4836be96f851afcde5b324962" alternative-text="Bloom, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2164" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Bloom</title>
@@ -2490,9 +2490,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="326" name="Ember" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-ember" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="326" name="Ember" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-ember" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Ember">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2165" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Ember</text>
@@ -2504,7 +2504,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2167" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="43055089711ce2afa281fcaa8e0f827a" alternative-text="Ember, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2167" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="d0c9088d67289608d8c6485b895285b1" alternative-text="Ember, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2168" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Ember</title>
@@ -2533,9 +2533,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="327" name="Tide" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-image-gallery-tide" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="327" name="Tide" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-image-gallery-tide" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Tide">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2169" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Tide</text>
@@ -2547,7 +2547,7 @@
                 </section>
               </section>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2171" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="baa6742deff14c19166e48ee2a34bbcb" alternative-text="Tide, abstract artwork"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2171" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="981faa2d97126bf439f52265a3496737" alternative-text="Tide, abstract artwork"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2172" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Tide</title>
@@ -2576,9 +2576,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="328" name="Events" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="37" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-events" class_remote_id="020cbeb6382c8c89dcec2cd406fb47a8" ezremote:class_identifier="event_calendar" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="328" name="Events" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="37" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-events" class_remote_id="020cbeb6382c8c89dcec2cd406fb47a8" ezremote:class_identifier="event_calendar" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Events">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2173" ezremote:identifier="title" name="Full Title" type="ezstring">
               <text>Events</text>
@@ -2619,9 +2619,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="329" name="Webinar: What is new in 6.0.15" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-event-webinar-6015" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="329" name="Webinar: What is new in 6.0.15" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-event-webinar-6015" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Webinar: What is new in 6.0.15">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2177" ezremote:identifier="title" name="Full title" type="ezstring">
               <text>Webinar: What is new in 6.0.15</text>
@@ -2673,9 +2673,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="330" name="Community meetup" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-event-meetup-oslo" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="330" name="Community meetup" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" remote_id="ezwebin-dc-event-meetup-oslo" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:41 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:41 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Community meetup">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2184" ezremote:identifier="title" name="Full title" type="ezstring">
               <text>Community meetup</text>
@@ -2727,9 +2727,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="331" name="Workshop: Building pages with Exponential Layouts" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-event-workshop-layouts" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="331" name="Workshop: Building pages with Exponential Layouts" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-event-workshop-layouts" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Workshop: Building pages with Exponential Layouts">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2191" ezremote:identifier="title" name="Full title" type="ezstring">
               <text>Workshop: Building pages with Exponential Layouts</text>
@@ -2781,9 +2781,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="332" name="Exponential Conference 2027" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-event-conference" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="332" name="Exponential Conference 2027" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:15 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-event-conference" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Exponential Conference 2027">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2198" ezremote:identifier="title" name="Full title" type="ezstring">
               <text>Exponential Conference 2027</text>
@@ -2835,9 +2835,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="333" name="Developer office hours" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-event-office-hours" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="333" name="Developer office hours" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="36" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-event-office-hours" class_remote_id="563cb5edc2adfd2b240efa456c81525f" ezremote:class_identifier="event" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Developer office hours">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2205" ezremote:identifier="title" name="Full title" type="ezstring">
               <text>Developer office hours</text>
@@ -2889,9 +2889,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="334" name="Services" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-products" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="334" name="Services" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-products" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Services">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2212" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Services</text>
@@ -2948,9 +2948,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="335" name="Managed hosting" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="20" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-product-hosting" class_remote_id="77f3ede996a3a39c7159cc69189c5307" ezremote:class_identifier="product" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="335" name="Managed hosting" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="20" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-product-hosting" class_remote_id="77f3ede996a3a39c7159cc69189c5307" ezremote:class_identifier="product" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Managed hosting">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2220" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Managed hosting</text>
@@ -2975,7 +2975,7 @@
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2224" ezremote:identifier="price" name="Price" type="ezprice">
               <price>149</price>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2225" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="d8a57b78abea94e1de01c4b384c56955" alternative-text="Managed hosting"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2225" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="a33b4eea8ff3c4c6cc718be86077f487" alternative-text="Managed hosting"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2226" ezremote:identifier="caption" name="Caption (Image)" type="ezxmltext">
               <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
             </ezobject:attribute>
@@ -3016,9 +3016,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="336" name="Support subscription" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="20" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-product-support" class_remote_id="77f3ede996a3a39c7159cc69189c5307" ezremote:class_identifier="product" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="336" name="Support subscription" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="20" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-product-support" class_remote_id="77f3ede996a3a39c7159cc69189c5307" ezremote:class_identifier="product" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Support subscription">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2230" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Support subscription</text>
@@ -3043,7 +3043,7 @@
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2234" ezremote:identifier="price" name="Price" type="ezprice">
               <price>490</price>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2235" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="1fd07736b89d10394376419a8f008416" alternative-text="Support subscription"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2235" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="c9e7f1a53386fb8462e9e9cc93600078" alternative-text="Support subscription"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2236" ezremote:identifier="caption" name="Caption (Image)" type="ezxmltext">
               <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
             </ezobject:attribute>
@@ -3084,9 +3084,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="337" name="Team training" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="20" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-product-training" class_remote_id="77f3ede996a3a39c7159cc69189c5307" ezremote:class_identifier="product" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="337" name="Team training" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="20" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-product-training" class_remote_id="77f3ede996a3a39c7159cc69189c5307" ezremote:class_identifier="product" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Team training">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2240" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Team training</text>
@@ -3111,7 +3111,7 @@
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2244" ezremote:identifier="price" name="Price" type="ezprice">
               <price>1200</price>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2245" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="ecb0598fa572b3dcdb87871ddf45c992" alternative-text="Team training"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2245" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="2f24bb0c372559a8a0df1f1e534f0745" alternative-text="Team training"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2246" ezremote:identifier="caption" name="Caption (Image)" type="ezxmltext">
               <section xmlns:image="http://ez.no/namespaces/ezpublish3/image/" xmlns:xhtml="http://ez.no/namespaces/ezpublish3/xhtml/" xmlns:custom="http://ez.no/namespaces/ezpublish3/custom/"/>
             </ezobject:attribute>
@@ -3152,9 +3152,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="338" name="About" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" remote_id="ezwebin-dc-about" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:05 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:05 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="338" name="About" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="1" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-about" class_remote_id="a3d405b81be900468eb153d774f4f0d2" ezremote:class_identifier="folder" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="About">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2250" ezremote:identifier="name" name="Name" type="ezstring">
               <text>About</text>
@@ -3211,9 +3211,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="339" name="The Exponential Foundation" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-article-foundation" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="339" name="The Exponential Foundation" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-article-foundation" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="The Exponential Foundation">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2258" ezremote:identifier="title" name="Title" type="ezstring">
               <text>The Exponential Foundation</text>
@@ -3280,15 +3280,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="340" name="The Exponential Foundation" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-image-article-foundation" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="340" name="The Exponential Foundation" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-image-article-foundation" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="The Exponential Foundation">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2266" ezremote:identifier="name" name="Name" type="ezstring">
               <text>The Exponential Foundation</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2267" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2268" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="d0f24c3c7e31cdedd4224b7f013decbe" alternative-text="Illustration of a group of people"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2268" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="7462e40b0c6f569aa238a3198174ee4a" alternative-text="Illustration of a group of people"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2269" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>The Exponential Foundation</title>
@@ -3317,9 +3317,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="341" name="7x" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-article-seven-x" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="341" name="7x" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-article-seven-x" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="7x">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2270" ezremote:identifier="title" name="Title" type="ezstring">
               <text>7x</text>
@@ -3383,15 +3383,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="342" name="7x" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-image-article-seven-x" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="342" name="7x" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-image-article-seven-x" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="7x">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2278" ezremote:identifier="name" name="Name" type="ezstring">
               <text>7x</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2279" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2280" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="dc9adc80bc12eb8d83050c5a77ddb36a" alternative-text="Illustration of a headset"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2280" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="5e760b50975993cc1b0a0c2e60a22113" alternative-text="Illustration of a headset"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2281" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>7x</title>
@@ -3420,9 +3420,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="343" name="Our history" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-article-history" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="20">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="20" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="343" name="Our history" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="2" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-article-history" class_remote_id="c15b600eb9198b1924063b5a68758232" ezremote:class_identifier="article" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="22">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="22" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Our history">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2282" ezremote:identifier="title" name="Title" type="ezstring">
               <text>Our history</text>
@@ -3486,15 +3486,15 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="344" name="Our history" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-image-article-history" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="344" name="Our history" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="5" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-image-article-history" class_remote_id="f6df12aa74e36230eb675f364fccd25a" ezremote:class_identifier="image" ezremote:always_available="1" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Our history">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2290" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Our history</text>
             </ezobject:attribute>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2291" ezremote:identifier="caption" name="Caption" type="ezxmltext"/>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2292" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="f5326935e031e3820927138431ec025d" alternative-text="Illustration of a calendar"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2292" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="08e6bde632de96f0b19aaccd78192425" alternative-text="Illustration of a calendar"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2293" ezremote:identifier="metadata" name="Meta Data" type="xrowmetadata">
               <MetaData>
                 <title>Our history</title>
@@ -3523,9 +3523,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="345" name="Contact us" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="21" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-contact" class_remote_id="df0257b8fc55f6b8ab179d6fb915455e" ezremote:class_identifier="feedback_form" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="345" name="Contact us" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="21" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-contact" class_remote_id="df0257b8fc55f6b8ab179d6fb915455e" ezremote:class_identifier="feedback_form" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Contact us">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2294" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Contact us</text>
@@ -3580,9 +3580,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="346" name="Source code" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="11" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-link-source" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="346" name="Source code" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="11" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-link-source" class_remote_id="74ec6507063150bc813549b22534ad48" ezremote:class_identifier="link" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Source code">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2302" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Source code</text>
@@ -3626,9 +3626,9 @@
         </ezobject:version>
       </ezobject:version-list>
     </ezremote:object>
-    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="347" name="Exponential 6.0.15: publish faster, everywhere" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="38" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" remote_id="ezwebin-dc-banner-home" class_remote_id="9cb558e25fd946246bbb32950c00228e" ezremote:class_identifier="banner" ezremote:always_available="0" initial_language="eng-US">
-      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="10">
-        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="10" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:47:06 GMT" ezremote:modified="Tue, 03 Nov 2026 15:47:06 GMT" initial_language="eng-US">
+    <ezremote:object xmlns:ezremote="http://ez.no/ezobject" xmlns:ezobject="http://ez.no/object/" ezremote:id="347" name="Exponential 6.0.15: publish faster, everywhere" ezremote:section_id="1" ezremote:owner_id="14" ezremote:class_id="38" ezremote:published="Tue, 03 Nov 2026 15:30:16 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" remote_id="ezwebin-dc-banner-home" class_remote_id="9cb558e25fd946246bbb32950c00228e" ezremote:class_identifier="banner" ezremote:always_available="0" initial_language="eng-US">
+      <ezobject:version-list xmlns:ezobject="http://ez.no/object/" active_version="11">
+        <ezobject:version xmlns:ezremote="http://ez.no/ezobject" ezremote:version="11" ezremote:status="1" ezremote:created="Tue, 03 Nov 2026 15:53:42 GMT" ezremote:modified="Tue, 03 Nov 2026 15:53:42 GMT" initial_language="eng-US">
           <ezobject:object-translation language="eng-US" object_name="Exponential 6.0.15: publish faster, everywhere">
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2306" ezremote:identifier="name" name="Name" type="ezstring">
               <text>Exponential 6.0.15: publish faster, everywhere</text>
@@ -3636,7 +3636,7 @@
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2307" ezremote:identifier="url" name="URL" type="ezstring">
               <text>/Features</text>
             </ezobject:attribute>
-            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2308" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="508f0cf08530c1fb57bcde20acbd84dc" alternative-text="Exponential 6.0.15: publish faster, everywhere"/>
+            <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2308" ezremote:identifier="image" name="Image" type="ezimage" image-file-key="44e59ca62aec96480505db952642f8de" alternative-text="Exponential 6.0.15: publish faster, everywhere"/>
             <ezobject:attribute xmlns:ezremote="http://ez.no/ezobject" ezremote:id="2309" ezremote:identifier="image_map" name="Image map" type="eztext">
               <text></text>
             </ezobject:attribute>
