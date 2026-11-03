@@ -3745,19 +3745,19 @@ class eZWebinInstaller extends eZSiteInstaller
                 'small' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=100;160' 
+                        '0' => 'geometry/scaledownonly=320;320' 
                     ) 
                 ), 
                 'medium' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=200;290' 
+                        '0' => 'geometry/scaledownonly=480;480' 
                     ) 
                 ), 
                 'large' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=360;440' 
+                        '0' => 'geometry/scaledownonly=960;960' 
                     ) 
                 ), 
                 'rss' => array( 
@@ -3769,55 +3769,55 @@ class eZWebinInstaller extends eZSiteInstaller
                 'logo' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaleheight=36' 
+                        '0' => 'geometry/scaleheight=96' 
                     ) 
                 ), 
                 'listitem' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=130;190' 
+                        '0' => 'geometry/scaledownonly=480;480' 
                     ) 
                 ), 
                 'articleimage' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=170;350' 
+                        '0' => 'geometry/scaledownonly=960;960' 
                     ) 
                 ), 
                 'articlethumbnail' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=70;150' 
+                        '0' => 'geometry/scaledownonly=720;720' 
                     ) 
                 ), 
                 'gallerythumbnail' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=105;100' 
+                        '0' => 'geometry/scaledownonly=480;480' 
                     ) 
                 ), 
                 'galleryline' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=70;150' 
+                        '0' => 'geometry/scaledownonly=720;720' 
                     ) 
                 ), 
                 'imagelarge' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scaledownonly=550;730' 
+                        '0' => 'geometry/scaledownonly=1600;1600' 
                     ) 
                 ), 
                 'infoboximage' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scalewidth=75' 
+                        '0' => 'geometry/scalewidth=600' 
                     ) 
                 ), 
                 'billboard' => array( 
                     'Reference' => '', 
                     'Filters' => array( 
-                        '0' => 'geometry/scalewidth=764' 
+                        '0' => 'geometry/scalewidth=1600' 
                     ) 
                 ) 
             ) 

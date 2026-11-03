@@ -40,12 +40,12 @@
       <file-list type="thumbnail"
                  variable-name="thumbnail">
         <file name="thumbnail.png"
-              md5sum="d0a098ad93432761ff270ea553e549d4" />
+              md5sum="82690d59c5bbe80b51fc92da8fd20342" />
       </file-list>
       <file-list type="image"
                  variable-name="image">
         <file name="logo.png"
-              md5sum="ec4c8c048e629f3f6aa320cb7817ffc7" />
+              md5sum="693a0ee5e3343989f216644061156c0c" />
       </file-list>
      </collection>
   </files>

@@ -26,6 +26,7 @@
   <documents>
     <document mime-type="text/plain"
               name="LICENCE" />
+    <document mime-type="text/markdown" name="CREDITS.md"/>
   </documents>
   <changelog>
     <entry person="Administrator User"
@@ -40,12 +41,12 @@
       <file-list type="thumbnail"
                  variable-name="thumbnail">
         <file name="thumbnail.png"
-              md5sum="d0a098ad93432761ff270ea553e549d4" />
+              md5sum="df05224ba8718e70c4e48f69759630ae" />
       </file-list>
       <file-list type="image"
                  variable-name="image">
         <file name="logo.png"
-              md5sum="ec4c8c048e629f3f6aa320cb7817ffc7" />
+              md5sum="693a0ee5e3343989f216644061156c0c" />
       </file-list>
      </collection>
   </files>
