@@ -5,7 +5,7 @@
   <name>ezwebin_design_gray</name>
   <summary>eZ Publish Website Interface design (gray)</summary>
   <description>This site style package contains the design for the Website Interface</description>
-  <vendor>eZ systems</vendor>
+  <vendor>Exponential Foundation and 7x</vendor>
   <type value="sitestyle" />
   <ezpublish>
     <version>5.3.0</version>
@@ -20,7 +20,7 @@
   </maintainers>
   <packaging>
     <timestamp>1162333368</timestamp>
-    <host>packages.ez.no</host>
+    <host>packages.exponential.earth</host>
   </packaging>
   <documents>
     <document mime-type="text/plain"
