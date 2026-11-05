@@ -1,0 +1,5 @@
+Changes from 6.0.32 to 6.0.33 (2026-11-04)
+
+- Updated: The form and feedback mails of collected information are the kernel's HTML mail with a plain-text part (Exponential kernels with notification.ini [MailSettings] HTMLLayout): each answer reads as on the result page, a form's recipient field still decides where the mail goes. On an older kernel the mails stay the plain text they were.
+
+Upgrading: composer update and clear the caches.

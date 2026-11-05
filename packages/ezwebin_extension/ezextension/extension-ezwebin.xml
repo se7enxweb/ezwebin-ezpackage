@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension name="ezwebin">
-  <file name=".github" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="FUNDING.yml" path="/.github" md5sum="a65c763ef0340e232cfe8c274f56fca0"/>
   <file name="LICENSE" md5sum="eee5f9135e5b658adce09e7e046c881f"/>
   <file name="README" md5sum="d41d8cd98f00b204e9800998ecf8427e"/>
   <file name="autoloads" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
@@ -355,8 +353,8 @@
   <file name="form.tpl" path="/design/ezwebin/templates/content/collectedinfo" md5sum="f3a2d8c86d14ae61c4e81c00c7eafcb0"/>
   <file name="poll.tpl" path="/design/ezwebin/templates/content/collectedinfo" md5sum="17b589ceafee84c26162bd14e64eccb8"/>
   <file name="collectedinfomail" path="/design/ezwebin/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
-  <file name="feedback.tpl" path="/design/ezwebin/templates/content/collectedinfomail" md5sum="61222834acc92c29e4b6286ba65d17e4"/>
-  <file name="form.tpl" path="/design/ezwebin/templates/content/collectedinfomail" md5sum="4db440602ff4587652bcb6a5b916b4dd"/>
+  <file name="feedback.tpl" path="/design/ezwebin/templates/content/collectedinfomail" md5sum="483144e2a9e1bfabdf6bf7852c620202"/>
+  <file name="form.tpl" path="/design/ezwebin/templates/content/collectedinfomail" md5sum="1a40b74249b1468ab5023b7617222ef0"/>
   <file name="datatype" path="/design/ezwebin/templates/content" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="edit" path="/design/ezwebin/templates/content/datatype" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="ezdate.tpl" path="/design/ezwebin/templates/content/datatype/edit" md5sum="60975e7efa7dabd64988d1104f6af7ba"/>
@@ -510,9 +508,10 @@
   <file name="CHANGELOG-6.0.29-to-6.0.30" path="/doc/changelogs/6.0" md5sum="6afa00bda5331d0d5ec398b9c1f4c3b4"/>
   <file name="CHANGELOG-6.0.30-to-6.0.31" path="/doc/changelogs/6.0" md5sum="109e42db2a5c88f729698958d4524210"/>
   <file name="CHANGELOG-6.0.31-to-6.0.32" path="/doc/changelogs/6.0" md5sum="b779ce5e0eb5b8318c9f8861ed80aee1"/>
+  <file name="CHANGELOG-6.0.32-to-6.0.33" path="/doc/changelogs/6.0" md5sum="43a03c379a3bba6b915b07772b0d0f4a"/>
   <file name="release-overview" path="/doc" md5sum="fb82a4d6443f2a555949e0d532ac7be1"/>
-  <file name="extension.xml" md5sum="0b0d031342135c9afa1b8a35edcd5033"/>
-  <file name="ezinfo.php" md5sum="1b489fd623840bac90dbde97b65d9469"/>
+  <file name="extension.xml" md5sum="0a4b955d5fe125996e9e1c4b86c886b9"/>
+  <file name="ezinfo.php" md5sum="5047b8d91bfe5a0e89288096a7c032cd"/>
   <file name="packages" md5sum="d41d8cd98f00b204e9800998ecf8427e" type="dir"/>
   <file name="article-1.0-1.ezpkg" path="/packages" md5sum="f97ea3180f7a432577609869f80cd1d2"/>
   <file name="article_main_page-1.0-1.ezpkg" path="/packages" md5sum="5f3c9ea5857d7772bc1c8adeb08f78fd"/>
