@@ -35,11 +35,28 @@
 
 {if count($content_attributes)|gt(0)}
  {foreach $content_attributes as $attribute}
- <input type="hidden" name="ContentObjectAttribute_id[]" value="{$attribute.id}">
- <div class="block">
- <label>{$attribute.contentclass_attribute.name}</label><div class="labelbreak"></div>
- {attribute_edit_gui attribute=$attribute}
+ {* the sign-up fields only: attributes of the class's "meta" category (Meta Data and other editorial settings) are
+    left out, the user account gets no heading of its own (register=true() also drops the editor's User ID and
+    account status), and an image is one plain upload field instead of the editor's image block *}
+ {if $attribute.contentclass_attribute.category|eq( 'meta' )}{continue}{/if}
+ <input type="hidden" name="ContentObjectAttribute_id[]" value="{$attribute.id}" />
+ {if eq( $attribute.data_type_string, 'ezimage' )}
+ <div class="block register-image">
+     <label for="register-image-{$attribute.id}">{$attribute.contentclass_attribute.name|wash}{if $attribute.is_required} *{else} ({'optional'|i18n( 'design/standard/user' )}){/if}</label><div class="labelbreak"></div>
+     <input type="file" id="register-image-{$attribute.id}" name="ContentObjectAttribute_data_imagename_{$attribute.id}" accept="image/jpeg,image/png,image/webp,image/gif" />
+     <label for="register-image-alt-{$attribute.id}">{'Describe the picture (read aloud by screen readers)'|i18n( 'design/standard/user' )}</label>
+     <input type="text" class="box" id="register-image-alt-{$attribute.id}" name="ContentObjectAttribute_data_imagealttext_{$attribute.id}" maxlength="255" value="{$attribute.content.alternative_text|wash}" />
  </div>
+ {elseif eq( $attribute.data_type_string, 'ezuser' )}
+ <div class="block">
+     {attribute_edit_gui attribute=$attribute register=true()}
+ </div>
+ {else}
+ <div class="block">
+     <label>{$attribute.contentclass_attribute.name|wash}</label><div class="labelbreak"></div>
+     {attribute_edit_gui attribute=$attribute}
+ </div>
+ {/if}
  {/foreach}
 
  {include uri='design:mailpreferences/parts/signup.tpl' categories=first_set( $mail_categories, array() )}

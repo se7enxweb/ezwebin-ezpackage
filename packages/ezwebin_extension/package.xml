@@ -12,7 +12,7 @@
     <named-version>6.0</named-version>
   </ezpublish>
   <packaging>
-    <timestamp>1793857145</timestamp>
+    <timestamp>1794235498</timestamp>
     <host>packages.exponential.earth</host>
   </packaging>
   <documents>
@@ -22,7 +22,7 @@
   <simple-files />
   <version>
     <number>6.0</number>
-    <release>33</release>
+    <release>34</release>
   </version>
   <licence>GPL</licence>
   <state>stable</state>

@@ -1,0 +1,5 @@
+Changes from 6.0.33 to 6.0.34 (2026-11-09)
+
+- Updated: The sign-up form (user/register) shows only what a new member fills in: attributes of the user class's "meta" category such as Meta Data are left out, the account fields have no heading of their own (on kernels from Exponential 6.0.15 the editor's User ID and account status are left out too), and a picture is one plain upload field with a field for its description instead of the editor's image block ("There is no image file" and a remove button).
+
+Upgrading: composer update and clear the caches.
