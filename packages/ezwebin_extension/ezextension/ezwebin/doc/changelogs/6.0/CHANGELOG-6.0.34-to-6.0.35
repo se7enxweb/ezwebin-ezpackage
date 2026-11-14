@@ -1,0 +1,5 @@
+Changes from 6.0.34 to 6.0.35 (2026-11-14)
+
+- Updated: Requires expwt 0.1.1 (was ~0.1): the website sidebar takes its actions and input as module view parameters instead of query parameters, so a request shield that refuses unknown query parameters (exp_request_shield's EXP-STRICT) no longer refuses it.
+
+Upgrading: composer update and clear the caches.
